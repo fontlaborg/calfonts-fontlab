@@ -1,0 +1,638 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":4,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-02 06:39:41",
+        "advanceWidth":250
+      },
+      {
+        "name":"I",
+        "unicode":"0049",
+        "lastModified":"2022-03-02 06:44:46",
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":302,
+            "advanceHeight":720,
+            "metricsLeft":"=H",
+            "metricsRight":"=H",
+            "elements":[
+              {
+                "id":"element",
+                "elementData":{
+                  "contours":[
+                    {
+                      "id":"contour",
+                      "nodes":[
+                        "0 0 {n:'.ab01'}",
+                        "302 0 {n:'.sv01'}",
+                        "302 5 {n:'.ab02'}",
+                        "242 12 s {n:'.sv02'}",
+                        "212 15  207 21  207 46 s",
+                        "207 604 s {n:'.dh02'}",
+                        "207 629  212 635  242 638 s {n:'.sv03'}",
+                        "302 645 {n:'.at01'}",
+                        "302 650 {n:'.sv04'}",
+                        "0 650 {n:'.at02'}",
+                        "0 645 {n:'.sv05'}",
+                        "60 638 s {n:'.sv06'}",
+                        "90 635  95 629  95 604 s {n:'.dh01'}",
+                        "95 46 s",
+                        "95 21  90 15  60 12 s {n:'.sv07'}",
+                        "0 5 {n:'.sv08'}"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"302 0",
+                    "contour":"contour",
+                    "index":1,
+                    "element":"element"
+                  }
+                },
+                "thickness":5,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"302 5",
+                    "contour":"contour",
+                    "index":2,
+                    "element":"element"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"302 645",
+                    "contour":"contour",
+                    "index":11,
+                    "element":"element"
+                  }
+                },
+                "thickness":5,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"302 650",
+                    "contour":"contour",
+                    "index":12,
+                    "element":"element"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"95 46",
+                    "contour":"contour",
+                    "index":19,
+                    "element":"element"
+                  }
+                },
+                "thickness":112,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"207 46",
+                    "contour":"contour",
+                    "index":6,
+                    "element":"element"
+                  }
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"botuc",
+                "point":"151 0",
+                "exprX":"width/2"
+              },
+              {
+                "name":"ogonuc",
+                "point":"151 0",
+                "exprX":"width/2"
+              },
+              {
+                "name":"topuc",
+                "point":"151 700",
+                "exprX":"width/2"
+              }
+            ]
+          }
+        ],
+        "tags":[
+          "LATINSTD"
+        ]
+      },
+      {
+        "name":"O",
+        "unicode":"004f",
+        "lastModified":"2022-03-02 06:44:46",
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":745,
+            "advanceHeight":720,
+            "metricsLeft":"=40",
+            "metricsRight":"=|",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "171 61 s {n:'.sh03'}",
+                        "215 26  297 -11  373 -11 s {n:'.ab01'}",
+                        "443 -11  526 21  580 65 s",
+                        "650 123  705 221  705 325 s {n:'.sh04'}",
+                        "705 432  647 532  574 589 s {n:'.sh07'}",
+                        "530 624  448 661  372 661 s {n:'.at01'}",
+                        "297 661  215 624  171 589 s {n:'.sh08'}",
+                        "98 532  40 432  40 325 s {n:'.sh01'}",
+                        "40 218  98 119 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "211 101 s",
+                        "182 155  170 249  170 325 s {n:'.sh02'}",
+                        "170 401  182 495  211 549 s",
+                        "245 613  302 646  373 646 s {n:'.sv01'}",
+                        "444 646  500 613  534 549 s",
+                        "563 495  575 401  575 325 s {n:'.sh05'}",
+                        "575 249  563 155  534 101 s",
+                        "500 37  443 4  372 4 s {n:'.sv02'}",
+                        "301 4  245 37 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"373 646",
+                    "contour":{
+                      "id":"contour.1",
+                      "nodes":[
+                        "174 325",
+                        "174 401.128  186.038 495.026  214.981 548.75 s",
+                        "249.29 612.436  306.099 646  377 646",
+                        "377 661",
+                        "302.152 661  218.81 624.372  174.567 589.373 s",
+                        "101.847 531.847  44 431.598  44 325"
+                      ]
+                    },
+                    "index":6,
+                    "element":{
+                      "id":"element.1",
+                      "elementData":{
+                        "id":"Oelement:Regular",
+                        "name":"Oelement",
+                        "contours":[
+                          "contour.1"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":-4
+                      }
+                    }
+                  }
+                },
+                "thickness":15,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"373 661",
+                    "contour":"contour.1",
+                    "index":7,
+                    "element":"element.1"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"40 325",
+                    "contour":"contour.1",
+                    "index":13,
+                    "element":"element.1"
+                  }
+                },
+                "thickness":130,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"170 325",
+                    "contour":"contour.1",
+                    "index":0,
+                    "element":"element.1"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"575 325",
+                    "contour":"contour.1",
+                    "index":0,
+                    "element":{
+                      "id":"element.2",
+                      "elementData":"Oelement:Regular",
+                      "transform":{
+                        "xScale":-1,
+                        "yScale":-1,
+                        "xOffset":749,
+                        "yOffset":650
+                      },
+                      "active":true
+                    }
+                  }
+                },
+                "thickness":130,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"705 325",
+                    "contour":"contour.1",
+                    "index":13,
+                    "element":"element.2"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"372 -11",
+                    "contour":"contour.1",
+                    "index":7,
+                    "element":"element.2"
+                  }
+                },
+                "thickness":15,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"372 4",
+                    "contour":"contour.1",
+                    "index":6,
+                    "element":"element.2"
+                  }
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"botuc",
+                "point":"372 0",
+                "exprX":"center"
+              },
+              {
+                "name":"ogonuc",
+                "point":"443 7"
+              },
+              {
+                "name":"topuc",
+                "point":"372 700",
+                "exprX":"center"
+              }
+            ]
+          }
+        ],
+        "tags":[
+          "LATINSTD"
+        ]
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "lastModified":"2022-03-02 06:44:46",
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":666,
+            "advanceHeight":720,
+            "metricsLeft":"=H",
+            "metricsRight":"=5",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 0 {n:'.ab03'}",
+                        "580 0 {n:'.ab02'}",
+                        "578 50  609 130  661 210 {n:'.sh01'}",
+                        "653 215 {n:'.sv06'}",
+                        "604 144  539 87  464 51 s {n:'.ih01'}",
+                        "403 21  346 10  247 10 s {n:'.sv03'}",
+                        "207 10 {n:'.sv04'}",
+                        "207 316 {n:'.dv01'}",
+                        "211 316 s {n:'.iv01'}",
+                        "302 316  342 310  371 290 s {n:'.sh05'}",
+                        "402 270  421 237  445 163 {n:'.sv10'}",
+                        "455 166 {n:'.sh04'}",
+                        "435 220  425 267  425 316 s",
+                        "425 365  436 416  457 478 {n:'.sh03'}",
+                        "447 481 {n:'.sv09'}",
+                        "427 417  408 381  382 359 s {n:'.sh06'}",
+                        "346 331  296 330  211 330 s {n:'.sv08'}",
+                        "207 330 {n:'.dv02'}",
+                        "207 640 {n:'.sv05'}",
+                        "380 640  500 608  613 467 {n:'.sv07'}",
+                        "620 471 {n:'.sh02'}",
+                        "581 529  551 604  548 650 {n:'.at01'}",
+                        "0 650",
+                        "0 645 {n:'.at02'}",
+                        "60 638 s {n:'.sv01'}",
+                        "90 635  95 629  95 604 s {n:'.dh01'}",
+                        "95 46 s",
+                        "95 21  90 15  60 12 s {n:'.sv02'}",
+                        "0 5 {n:'.ab01'}"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"123 604",
+                    "contour":{
+                      "id":"contour.2",
+                      "nodes":[
+                        "576 650",
+                        "28 650",
+                        "28 645",
+                        "88 638 s",
+                        "117.678 634.538  123 629  123 604 s",
+                        "123 46 s",
+                        "123 21  117.678 15.4624  88 12 s",
+                        "28 5",
+                        "28 0",
+                        "608 0",
+                        "605.969 50.3243  636.651 129.869  689 210",
+                        "681 215",
+                        "632.198 144.093  567.048 87.3793  492.472 50.8855 s",
+                        "430.666 20.6408  374 10  275 10 s",
+                        "235 10",
+                        "235 316",
+                        "238.95 316 s",
+                        "330 316  369.576 309.598  399.316 290.195 s",
+                        "430.026 270.16  449.312 236.787  472.65 163.3",
+                        "483 165.65",
+                        "463.225 220.205  453.31 267.303  453.31 315.603 s",
+                        "453.31 365.409  463.853 416.493  485 478.35",
+                        "474.65 480.7",
+                        "454.268 414.438  435.379 379.265  409.041 358.529 s",
+                        "380.639 336.169  344 330  238.95 330 s",
+                        "235 330",
+                        "235 640",
+                        "325.203 640  386.894 631.952  442.346 612.952 s",
+                        "518.816 586.749  582.322 540.091  641 467",
+                        "648 471",
+                        "608.866 528.851  578.814 603.561 c"
+                      ]
+                    },
+                    "index":6,
+                    "element":{
+                      "id":"element.3",
+                      "elementData":{
+                        "contours":[
+                          "contour.2"
+                        ]
+                      },
+                      "active":true
+                    }
+                  }
+                },
+                "thickness":112,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 640",
+                    "contour":"contour.2",
+                    "index":48,
+                    "element":"element.3"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"235 640",
+                    "contour":"contour.2",
+                    "index":48,
+                    "element":"element.3"
+                  }
+                },
+                "thickness":10,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"28 650",
+                    "contour":"contour.2",
+                    "index":1,
+                    "element":"element.3"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"235 316",
+                    "contour":"contour.2",
+                    "index":25,
+                    "element":"element.3"
+                  }
+                },
+                "thickness":14,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 330",
+                    "contour":"contour.2",
+                    "index":47,
+                    "element":"element.3"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"28 0",
+                    "contour":"contour.2",
+                    "index":12,
+                    "element":"element.3"
+                  }
+                },
+                "thickness":10,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"275 10",
+                    "contour":"contour.2",
+                    "index":23,
+                    "element":"element.3"
+                  }
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"botuc",
+                "point":"331 0",
+                "exprX":"center"
+              },
+              {
+                "name":"ogonuc",
+                "point":"545 0"
+              },
+              {
+                "name":"topuc",
+                "point":"311 700",
+                "exprX":"center*.94"
+              }
+            ]
+          }
+        ],
+        "tags":[
+          "LATINSTD"
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+    },
+    "info":{
+      "tfn":"CAL Franken G",
+      "sgn":"CAL Franken G",
+      "creationDate":"2022/03/02 06:39:41",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Franken G",
+          "ffn":"CAL Franken G Regular",
+          "psn":"CALFrankenG-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1494\" height=\"811\" mainWindow=\"0\" uid=\"eacb50d8-ee32-45e5-ae46-cfd02106280a\"><Window id=\"8de66536-e885-4fb1-96ca-86982be60b1a\" title=\" CAL Franken G Regular \" permanent=\"0\" active=\"1\" fl.columns=\"-151\" fl.list=\"false\" fl.list_width=\"640\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

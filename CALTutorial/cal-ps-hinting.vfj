@@ -1,0 +1,399 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":6,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-23 09:14:39",
+        "advanceWidth":250
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "lastModified":"2022-03-27 23:37:44",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":747,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "80 10 {n:'.ab01'}",
+                        "252 10 {n:'.sh01'}",
+                        "252 299 {n:'.dv01'}",
+                        "495 303",
+                        "495 3 {n:'.ab02'}",
+                        "667 0 {n:'.sh02'}",
+                        "667 700 {n:'.at01'}",
+                        "495 703 {n:'.sh03'}",
+                        "495 433",
+                        "252 429 {n:'.dv02'}",
+                        "252 703 {n:'.at02'}",
+                        "80 699"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"O",
+        "unicode":"004f",
+        "lastModified":"2022-03-27 23:37:44",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":714,
+            "metricsLeft":"=42",
+            "metricsRight":"=42",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "226 351 s",
+                        "226 508  269 574  357 574 s",
+                        "445 574  488 508  488 351 s",
+                        "488 192  445 126  357 126 s",
+                        "269 126  226 192 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "42 351 s",
+                        "42 140  168 0  359 0 s",
+                        "546 0  672 140  672 351 s",
+                        "672 560  546 700  359 700 s",
+                        "168 700  42 560 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"n",
+        "unicode":"006e",
+        "lastModified":"2022-03-24 01:48:07",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":611,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "64 0",
+                        "224 0",
+                        "224 341",
+                        "221 341",
+                        "206 500",
+                        "64 500"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "181 352",
+                        "199 298",
+                        "252 373  298 400  338 400 s",
+                        "383 400  388 366  388 331 s",
+                        "388 0",
+                        "551 0",
+                        "551 340 s",
+                        "551 454  496 513  398 513 s",
+                        "302 513  244 456 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#2e3192"
+          },
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":611,
+            "metricsLeft":"=H*.8",
+            "metricsRight":"=H*.76",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "64 2",
+                        "224 -1",
+                        "224 341",
+                        "221 341",
+                        "206 497",
+                        "64 500"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "181 355",
+                        "199 298",
+                        "252 377  298 406  338 406 s",
+                        "383 406  388 371  388 336 s",
+                        "388 -5",
+                        "551 -2",
+                        "551 352 s",
+                        "551 420  532 523  401 523 s",
+                        "302 523  244 463 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#bac000",
+            "active":true
+          }
+        ]
+      },
+      {
+        "name":"o",
+        "unicode":"006f",
+        "lastModified":"2022-03-27 23:37:44",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":576,
+            "metricsLeft":"=O*.8",
+            "metricsRight":"=O*.8",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 260 s",
+                        "199 368  228 413  288 413 s",
+                        "348 413  377 368  377 260 s",
+                        "377 152  348 107  288 107 s",
+                        "228 107  199 152 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "33 260 s",
+                        "33 101  135 -5  289 -5 s",
+                        "441 -5  543 101  543 260 s",
+                        "543 419  441 525  289 525 s",
+                        "135 525  33 419 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"bar",
+        "unicode":"007c",
+        "lastModified":"2022-03-24 01:35:47",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":339,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "46 -250",
+                        "218 -250",
+                        "218 750",
+                        "46 750"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"#> languagesystem\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt;\n#< languagesystem\n###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2022-3-23 14:3\n# Generated by: FontLab 8.0.0\n# Font path: /Users/dave/IDrive-Sync/FONTLAB TUTORIAL PROJECT/3f Hinting/3f-d PS Autohinting/PS Hinting Tutorial OH No Hints.vfc\n# Font PostScript name: PSHintingTutorial-OHNoHints\n#\n# Totals:\n# Languagesystems: 0\n# GSUB lookups: 0\n# GPOS lookups: 0\n\n#\n# Languagesystem definitions\n#\n\n#> languagesystem\n#< languagesystem\n\n\n#\n# Lookup definitions\n#\n\n\n"
+      }
+    ],
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL PS Hinting",
+      "sgn":"CAL PS Hinting",
+      "creationDate":"2022/03/23 09:14:39",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL PS Hinting",
+          "ffn":"CAL PS Hinting Regular",
+          "psn":"CALPSHinting-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "ttZonesT":[
+            {
+              "position":500,
+              "value":20,
+              "name":"x",
+              "tagsString":"lc"
+            },
+            {
+              "position":700,
+              "value":20,
+              "name":"caps",
+              "tagsString":"uc"
+            }
+          ],
+          "ttZonesB":[
+            {
+              "position":0,
+              "value":20,
+              "name":"base"
+            }
+          ],
+          "ttStemsH":[
+            {
+              "value":126,
+              "name":"Y: 1"
+            }
+          ],
+          "ttStemsV":[
+            {
+              "value":243,
+              "name":"X: 1"
+            },
+            {
+              "value":172,
+              "name":"H: 172"
+            }
+          ],
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"d75e2c36-5f97-417f-8267-72168666e36e\"><Window id=\"c488bab6-d49d-4c23-9ad3-aa30a505806d\" title=\" CAL PS Hinting Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

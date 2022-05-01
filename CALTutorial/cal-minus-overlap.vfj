@@ -1,0 +1,562 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":2,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-02 22:32:13",
+        "advanceWidth":250
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "lastModified":"2022-03-02 22:41:27",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":895,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 700",
+                        "0 104",
+                        "232 104",
+                        "228 124  226 145  226 166 s",
+                        "226 350  376 500  561 500 s",
+                        "573 500  584 499  596 498",
+                        "596 700"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 104",
+                                "596 104",
+                                "596 700",
+                                "0 700"
+                              ]
+                            },
+                            {
+                              "nodes":[
+                                "226 166 s",
+                                "226 -19  376 -169  561 -169 s",
+                                "745 -169  895 -19  895 166 s",
+                                "895 350  745 500  561 500 s",
+                                "376 500  226 350 c"
+                              ]
+                            }
+                          ]
+                        },
+                        "active":true
+                      }
+                    ],
+                    "builder":{
+                      "builderFill":{
+                        "curvature":0.67,
+                        "inktrapLen":2,
+                        "graph":{
+                          "edges":[
+                            {
+                              "id":"edge.5",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.9",
+                                "point":"596 700"
+                              },
+                              "vertex2":{
+                                "id":"vertex.1",
+                                "point":"0 700"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"596 700"},
+                                  {"point":"0 700"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"-0.01 699.99 596.02 0.02"
+                              }
+                            },
+                            {
+                              "id":"edge.7",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.2",
+                                "point":"0 104"
+                              },
+                              "vertex2":{
+                                "id":"vertex",
+                                "point":"231.727 104",
+                                "isIntersection":true
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"0 104"},
+                                  {"point":"231.727 104"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"-0.01 103.99 231.747 0.02"
+                              }
+                            },
+                            {
+                              "id":"edge",
+                              "t1":1,
+                              "vertex1":"vertex",
+                              "vertex2":{
+                                "id":"vertex.8",
+                                "point":"596 104"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"231.727 104"},
+                                  {"point":"596 104"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"231.717 103.99 364.293 0.02"
+                              }
+                            },
+                            {
+                              "id":"edge.6",
+                              "t1":1,
+                              "vertex1":"vertex.1",
+                              "vertex2":"vertex.2",
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"0 700"},
+                                  {"point":"0 104"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"-0.01 103.99 0.02 596.02"
+                              }
+                            },
+                            {
+                              "id":"edge.3",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.7",
+                                "point":"561 500"
+                              },
+                              "vertex2":{
+                                "id":"vertex.3",
+                                "point":"226 166"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"561 500"},
+                                  {"point":"376 500"},
+                                  {"point":"226 350"},
+                                  {"point":"226 166"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"225.99 165.99 335.02 334.02"
+                              }
+                            },
+                            {
+                              "id":"edge.4",
+                              "t1":1,
+                              "vertex1":"vertex.3",
+                              "vertex2":"vertex",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"226 166"},
+                                  {"point":"226 144.817"},
+                                  {"point":"227.967 124.093"},
+                                  {"point":"231.727 104"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"225.99 103.99 5.7473 62.02"
+                              }
+                            },
+                            {
+                              "id":"edge.9",
+                              "t1":1,
+                              "vertex1":"vertex",
+                              "vertex2":{
+                                "id":"vertex.4",
+                                "point":"561 -169"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"231.727 104"},
+                                  {"point":"260.81 -51.3843"},
+                                  {"point":"397.183 -169"},
+                                  {"point":"561 -169"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"231.717 -169.01 329.293 273.02"
+                              }
+                            },
+                            {
+                              "id":"edge.10",
+                              "t1":1,
+                              "vertex1":"vertex.4",
+                              "vertex2":{
+                                "id":"vertex.5",
+                                "point":"895 166"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"561 -169"},
+                                  {"point":"745 -169"},
+                                  {"point":"895 -19"},
+                                  {"point":"895 166"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"560.99 -169.01 334.02 335.02"
+                              }
+                            },
+                            {
+                              "id":"edge.11",
+                              "t1":1,
+                              "vertex1":"vertex.5",
+                              "vertex2":{
+                                "id":"vertex.6",
+                                "point":"596 498.175",
+                                "isIntersection":true
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"895 166"},
+                                  {"point":"895 338.183"},
+                                  {"point":"763.648 480.593"},
+                                  {"point":"596 498.175"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"595.99 165.99 299.02 332.195"
+                              }
+                            },
+                            {
+                              "id":"edge.2",
+                              "t1":1,
+                              "vertex1":"vertex.6",
+                              "vertex2":"vertex.7",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"596 498.175"},
+                                  {"point":"584.494 499.381"},
+                                  {"point":"572.817 500"},
+                                  {"point":"561 500"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"560.99 498.165 35.02 1.8454"
+                              }
+                            },
+                            {
+                              "id":"edge.1",
+                              "t1":1,
+                              "vertex1":"vertex.8",
+                              "vertex2":"vertex.6",
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"596 104"},
+                                  {"point":"596 498.175"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"595.99 103.99 0.02 394.195"
+                              }
+                            },
+                            {
+                              "id":"edge.8",
+                              "t1":1,
+                              "vertex1":"vertex.6",
+                              "vertex2":"vertex.9",
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"596 498.175"},
+                                  {"point":"596 700"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"595.99 498.165 0.02 201.845"
+                              }
+                            }
+                          ],
+                          "routes":[
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge",
+                                  "edge.1",
+                                  "edge.2",
+                                  "edge.3",
+                                  "edge.4"
+                                ],
+                                "index":0
+                              }
+                            },
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge.5",
+                                  "edge.6",
+                                  "edge.7",
+                                  "edge.4",
+                                  "edge.3",
+                                  "edge.2",
+                                  "edge.8"
+                                ],
+                                "index":1
+                              }
+                            },
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge",
+                                  "edge.9",
+                                  "edge.10",
+                                  "edge.11",
+                                  "edge.1"
+                                ],
+                                "index":2
+                              }
+                            },
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge.5",
+                                  "edge.8",
+                                  "edge.11",
+                                  "edge.10",
+                                  "edge.9",
+                                  "edge.7",
+                                  "edge.6"
+                                ],
+                                "index":3
+                              }
+                            },
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge.2",
+                                  "edge.8",
+                                  "edge.5",
+                                  "edge.6",
+                                  "edge.7",
+                                  "edge.4",
+                                  "edge.3"
+                                ],
+                                "index":4
+                              }
+                            }
+                          ],
+                          "graphClosedRouteIxs":"0,1,2,3",
+                          "graphShapes":[
+                            {
+                              "graphShape":{
+                                "graphRouteIxs":"2"
+                              }
+                            },
+                            {
+                              "graphShape":{
+                                "filled":true,
+                                "graphRouteIxs":"4"
+                              }
+                            },
+                            {
+                              "graphShape":{
+                                "graphRouteIxs":"0"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Minus Overlap",
+      "sgn":"CAL Minus Overlap",
+      "creationDate":"2022/03/02 22:32:13",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Minus Overlap",
+          "ffn":"CAL Minus Overlap Regular",
+          "psn":"CALMinusOverlap-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"192\" y=\"133\" width=\"1536\" height=\"811\" mainWindow=\"0\" uid=\"9aa6cc4c-97db-4a83-8fe0-930fdfd4c453\"><Window id=\"2b24bfc2-c657-4bf6-b584-f16d4b8970fa\" title=\" CAL Minus Overlap Regular \" permanent=\"0\" active=\"1\" fl.columns=\"-228\" fl.list=\"false\" fl.list_width=\"640\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/><Window id=\"c0906a3d-b605-422e-896f-06bea1a3cb80\" title=\" H @ CAL Minus Overlap Regular\" permanent=\"0\" active=\"0\" fl.alternative_view=\"false\" fl.echo=\"false\" fl.fontsize=\"103\" fl.mode=\"1\" fl.property=\"true\" fl.sidebar=\"false\" fl.text=\"H\" fl.tracking_h=\"1000\" fl.tracking_w=\"0\" fl.type=\"glyph\" fl.wrap=\"0\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n",
+    "canvases":[
+      {
+        "properties":{
+          "uuid":"c0906a3d-b605-422e-896f-06bea1a3cb80",
+          "view":{
+            "showGlyphGuides":257,
+            "showFontGuides":1,
+            "showElementGuides":1,
+            "showGlyphMetrics":7,
+            "showFontMetrics":1,
+            "showAnchors":1,
+            "showPins":1,
+            "showNodeLinks":1,
+            "showMask":1,
+            "showCurveControl":1,
+            "showNodes":257,
+            "showHandles":257,
+            "showMetricsTable":4,
+            "showRulers":265,
+            "showMasterRelations":256,
+            "showStemThickness":256,
+            "showStickers":1,
+            "lockFontMetrics":1,
+            "snapGlyphGuides":1,
+            "snapFontGuides":1,
+            "snapElementGuides":1,
+            "snapFontMetrics":1,
+            "snapHints":1,
+            "snapZones":1,
+            "snapGrid":1,
+            "snapGlobalMask":1,
+            "snapMask":1
+          }
+        },
+        "tx":{
+          "xScale":9.1845,
+          "yScale":9.1845,
+          "xOffset":317.665,
+          "yOffset":-267.8
+        },
+        "tool":16,
+        "ffn":"CAL Minus Overlap Regular",
+        "text":"H"
+      }
+    ]
+  }
+}

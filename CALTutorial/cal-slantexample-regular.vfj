@@ -1,0 +1,592 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":3,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-04-01 08:19:04",
+        "advanceWidth":250
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "lastModified":"2022-04-01 08:44:57",
+        "layers":[
+          {
+            "name":"BackSlant",
+            "flags":0,
+            "advanceWidth":575,
+            "advanceHeight":750,
+            "metricsLeft":"=\":Regular\"",
+            "metricsRight":"=\":Regular\"",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-212 631",
+                        "-224 632",
+                        "143 632",
+                        "88 720",
+                        "-394 720",
+                        "56 0",
+                        "548 0",
+                        "491 90",
+                        "114 90",
+                        "126 90"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-38 325",
+                        "295 325",
+                        "246 411",
+                        "-87 411"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#ff34ff"
+          },
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":556,
+            "advanceHeight":750,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "164 644",
+                        "152 632",
+                        "519 632",
+                        "519 720",
+                        "56 720",
+                        "56 0",
+                        "529 0",
+                        "529 90",
+                        "152 90",
+                        "164 78"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "149 325",
+                        "482 325",
+                        "482 411",
+                        "149 411"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#00cce5",
+            "active":true
+          },
+          {
+            "name":"Slant",
+            "advanceWidth":576,
+            "metricsLeft":"=\":Regular\"",
+            "metricsRight":"=\":Regular\"",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "586 641",
+                        "569 632",
+                        "936 632",
+                        "990 720",
+                        "508 720",
+                        "56 0",
+                        "549 0",
+                        "605 90",
+                        "228 90",
+                        "234 80"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "375 325",
+                        "708 325",
+                        "762 411",
+                        "428 411"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#00cce5"
+          }
+        ]
+      },
+      {
+        "name":"k",
+        "unicode":"006b",
+        "lastModified":"2022-04-01 08:44:26",
+        "layers":[
+          {
+            "name":"BackSlant",
+            "flags":0,
+            "advanceWidth":509,
+            "metricsLeft":"=\":Regular\"",
+            "metricsRight":"=\":Regular\"",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "170 0",
+                        "170 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yxScale":-0.6251,
+                  "xOffset":-4
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "155 257",
+                        "353 0",
+                        "513 0",
+                        "246 338",
+                        "230 249",
+                        "502 510",
+                        "396 510",
+                        "155 272"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yxScale":-0.6251,
+                  "xOffset":-4
+                }
+              }
+            ],
+            "color":"#ff34ff"
+          },
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":491,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "170 0",
+                        "170 720",
+                        "70 720"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-22
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "151 280",
+                        "382 0",
+                        "513 0",
+                        "232 334",
+                        "230 247",
+                        "502 510",
+                        "366 510",
+                        "151 295"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-22
+                }
+              }
+            ],
+            "color":"#00cce5",
+            "active":true
+          },
+          {
+            "name":"Slant",
+            "advanceWidth":510,
+            "metricsLeft":"=\":Regular\"",
+            "metricsRight":"=\":Regular\"",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "170 0",
+                        "170 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yxScale":0.6251,
+                  "xOffset":-3
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "147 308",
+                        "403 0",
+                        "513 0",
+                        "229 333",
+                        "237 250",
+                        "502 510",
+                        "329 510",
+                        "147 323"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yxScale":0.6251,
+                  "xOffset":-3
+                },
+                "active":true
+              }
+            ],
+            "color":"#bac000"
+          }
+        ]
+      }
+    ],
+    "axes":[
+      {
+        "name":"slant",
+        "shortName":"sl",
+        "tag":"slnt",
+        "designMinimum":-128,
+        "designMaximum":128,
+        "minimum":-32,
+        "maximum":32,
+        "default":0,
+        "playStart":-128,
+        "playEnd":128,
+        "axisGraph":{
+          "-128":-32,
+          "0":0,
+          "128":32
+        },
+        "axisInstances":[
+          {
+            "name":"(Upright)"
+          },
+          {
+            "name":"Slanted",
+            "value":7
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "currentMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+    },
+    "info":{
+      "tfn":"CAL Slant",
+      "sgn":"CAL Slant",
+      "creationDate":"2022/04/01 08:34:54",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Slant",
+          "tsn":"Regular",
+          "sgn":"Slant Example",
+          "ffn":"Slant Example Regular",
+          "psn":"SlantExample-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":510,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "italic_angle":-32.01,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "sl":128
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Slant",
+          "ffn":"CAL Slant Regular",
+          "psn":"CALSlant-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":510,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "sl":0
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"BackSlant",
+          "tsn":"Regular",
+          "sgn":"Slant Example",
+          "ffn":"Slant Example Regular",
+          "psn":"SlantExample-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":510,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "italic_angle":32.01,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "sl":-128
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"55a0bba0-3508-4469-b2e5-a431e839eb29\"><Window id=\"5983b1d0-a452-4cbc-a1e7-fb12ee03a444\" title=\" CAL Slant: Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

@@ -1,0 +1,1361 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":24,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-11 08:05:33",
+        "advanceWidth":250
+      },
+      {
+        "name":"oFutura",
+        "lastModified":"2022-03-14 06:43:45",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":600,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "130 250 s",
+                        "130 351  203 428  300 428 s",
+                        "397 428  470 351  470 250 s",
+                        "470 149  397 72  300 72 s",
+                        "203 72  130 149 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "40 250 s",
+                        "40 104  154 -10  300 -10 s",
+                        "446 -10  560 104  560 250 s",
+                        "560 396  446 510  300 510 s",
+                        "154 510  40 396 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oUnivers",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":546,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "125 250 s",
+                        "125 369  183 445  273 445 s",
+                        "363 445  421 369  421 250 s",
+                        "421 131  363 55  273 55 s",
+                        "183 55  125 131 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "35 250 s",
+                        "35 91  128 -10  273 -10 s",
+                        "418 -10  511 91  511 250 s",
+                        "511 409  418 510  273 510 s",
+                        "128 510  35 409 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oEurostile",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":586,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "145 250 s",
+                        "145 427  159 445  293 445 s",
+                        "427 445  441 427  441 250 s",
+                        "441 73  427 55  293 55 s",
+                        "159 55  145 73 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "55 250 s",
+                        "55 33  95 -10  293 -10 s",
+                        "491 -10  531 33  531 250 s",
+                        "531 467  491 510  293 510 s",
+                        "95 510  55 467 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oJenson",
+        "lastModified":"2022-03-14 19:41:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":591,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "296.083 8 s",
+                        "441.892 8  558 125.851  558 273.849 s",
+                        "558 413.413  450.318 519.697  308.917 519.697 s",
+                        "163.108 519.697  47 401.846  47 253.849 s",
+                        "47 114.284  154.682 8 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "146.116 211.425 s",
+                        "107.521 322.28  148.489 433.451  233.826 463.161 s",
+                        "309.253 489.422  408.166 436.931  449.859 317.175 s",
+                        "488.454 206.32  452.011 96.7253  366.674 67.0146 s",
+                        "288.793 39.8997  188.944 88.4127 c"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "47 253.849 s",
+                                "47 114.284  154.682 8  296.083 8 s",
+                                "441.892 8  558 125.851  558 273.849 s",
+                                "558 413.413  450.318 519.697  308.917 519.697 s",
+                                "163.108 519.697  47 401.846 c"
+                              ]
+                            },
+                            {
+                              "nodes":[
+                                "146.116 211.425 s",
+                                "188.944 88.4127  288.793 39.8997  366.674 67.0146 s",
+                                "452.011 96.7253  488.454 206.32  449.859 317.175 s",
+                                "408.166 436.931  309.253 489.422  233.826 463.161 s",
+                                "148.489 433.451  107.521 322.28 c"
+                              ]
+                            }
+                          ],
+                          "composite":{
+                            "includes":[
+                              {
+                                "elementData":{
+                                  "contours":[
+                                    {
+                                      "nodes":[
+                                        "47 253.849 s",
+                                        "47 114.284  154.682 8  296.083 8 s",
+                                        "441.892 8  558 125.851  558 273.849 s",
+                                        "558 413.413  450.318 519.697  308.917 519.697 s",
+                                        "163.108 519.697  47 401.846 c"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "elementData":{
+                                  "contours":[
+                                    {
+                                      "nodes":[
+                                        "737.556 265.042 s",
+                                        "737.556 382.423  812.799 473.942  903.16 473.942 s",
+                                        "983.028 473.942  1059.18 391.848  1059.18 265.042 s",
+                                        "1059.18 147.66  988.73 56.1414  898.369 56.1414 s",
+                                        "815.902 56.1414  737.556 134.787 c"
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "transform":{
+                                  "xScale":0.9444,
+                                  "xyScale":0.3288,
+                                  "yxScale":-0.3288,
+                                  "yScale":0.9444,
+                                  "xOffset":-463.286,
+                                  "yOffset":-281.389
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        "active":true
+                      }
+                    ],
+                    "builder":{
+                      "builderFill":{
+                        "curvature":0.67,
+                        "inktrapLen":2,
+                        "graph":{
+                          "edges":[
+                            {
+                              "id":"edge.4",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex",
+                                "point":"47 253.849"
+                              },
+                              "vertex2":{
+                                "id":"vertex.3",
+                                "point":"296.083 8"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"47 253.849"},
+                                  {"point":"47 114.284"},
+                                  {"point":"154.682 8"},
+                                  {"point":"296.083 8"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"46.99 7.99 249.103 245.869"
+                              }
+                            },
+                            {
+                              "id":"edge.5",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.5",
+                                "point":"308.917 519.697"
+                              },
+                              "vertex2":"vertex",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"308.917 519.697"},
+                                  {"point":"163.108 519.697"},
+                                  {"point":"47 401.846"},
+                                  {"point":"47 253.849"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"46.99 253.839 261.937 265.868"
+                              }
+                            },
+                            {
+                              "id":"edge",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.2",
+                                "point":"233.826 463.161"
+                              },
+                              "vertex2":{
+                                "id":"vertex.1",
+                                "point":"146.116 211.425"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"233.826 463.161"},
+                                  {"point":"148.489 433.451"},
+                                  {"point":"107.521 322.28"},
+                                  {"point":"146.116 211.425"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"107.511 211.415 126.325 251.756"
+                              }
+                            },
+                            {
+                              "id":"edge.3",
+                              "t1":1,
+                              "vertex1":"vertex.1",
+                              "vertex2":{
+                                "id":"vertex.6",
+                                "point":"366.674 67.0146"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"146.116 211.425"},
+                                  {"point":"188.944 88.4127"},
+                                  {"point":"288.793 39.8997"},
+                                  {"point":"366.674 67.0146"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"146.106 39.8897 220.578 171.545"
+                              }
+                            },
+                            {
+                              "id":"edge.1",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.7",
+                                "point":"449.859 317.175"
+                              },
+                              "vertex2":"vertex.2",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"449.859 317.175"},
+                                  {"point":"408.166 436.931"},
+                                  {"point":"309.253 489.422"},
+                                  {"point":"233.826 463.161"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"233.816 317.166 216.053 172.266"
+                              }
+                            },
+                            {
+                              "id":"edge.7",
+                              "t1":1,
+                              "vertex1":"vertex.3",
+                              "vertex2":{
+                                "id":"vertex.4",
+                                "point":"558 273.849"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"296.083 8"},
+                                  {"point":"441.892 8"},
+                                  {"point":"558 125.851"},
+                                  {"point":"558 273.849"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"296.073 7.99 261.937 265.868"
+                              }
+                            },
+                            {
+                              "id":"edge.6",
+                              "t1":1,
+                              "vertex1":"vertex.4",
+                              "vertex2":"vertex.5",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"558 273.849"},
+                                  {"point":"558 413.413"},
+                                  {"point":"450.318 519.697"},
+                                  {"point":"308.917 519.697"}
+                                ],
+                                "contourIx":-1,
+                                "paramT":-1,
+                                "brect":"308.907 273.839 249.103 245.869"
+                              }
+                            },
+                            {
+                              "id":"edge.2",
+                              "t1":1,
+                              "vertex1":"vertex.6",
+                              "vertex2":"vertex.7",
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"366.674 67.0146"},
+                                  {"point":"452.011 96.7253"},
+                                  {"point":"488.454 206.32"},
+                                  {"point":"449.859 317.175"}
+                                ],
+                                "contourIx":1,
+                                "paramT":-1,
+                                "brect":"366.664 67.0046 121.8 250.181"
+                              }
+                            }
+                          ],
+                          "routes":[
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge",
+                                  "edge.1",
+                                  "edge.2",
+                                  "edge.3"
+                                ],
+                                "index":0
+                              }
+                            },
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  "edge.4",
+                                  "edge.5",
+                                  "edge.6",
+                                  "edge.7"
+                                ],
+                                "index":1
+                              }
+                            }
+                          ],
+                          "graphClosedRouteIxs":"0,1",
+                          "graphShapes":[
+                            {
+                              "graphShape":{
+                                "filled":true,
+                                "graphRouteIxs":"1,0"
+                              }
+                            },
+                            {
+                              "graphShape":{
+                                "graphRouteIxs":"0"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                "transform":{
+                  "xOffset":-7
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oBaskerville",
+        "lastModified":"2022-03-14 19:41:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":586,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "130 250 s",
+                        "130 400.185  188.829 485  293 485 s",
+                        "397.171 485  456 400.185  456 250 s",
+                        "456 99.8149  397.171 15  293 15 s",
+                        "188.829 15  130 99.8149 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "40 250 s",
+                        "40 106.031  152.907 -10  293 -10 s",
+                        "433.093 -10  546 106.031  546 250 s",
+                        "546 393.969  433.093 510  293 510 s",
+                        "152.907 510  40 393.969 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oStereotypeDidot",
+        "lastModified":"2022-03-14 19:41:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":579,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289.5 10 s",
+                        "187.442 10  142 83.9404  142 250 s",
+                        "142 416.06  187.442 490  289.5 490 s",
+                        "391.558 490  437 416.06  437 250 s",
+                        "437 83.9404  391.558 10 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "289.606 -10 s",
+                        "419.767 -10  537 113.207  537 250 s",
+                        "537 386.793  419.767 510  289.606 510 s",
+                        "159.445 510  42.2121 386.793  42.2121 250 s",
+                        "42.2121 113.207  159.445 -10 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oStereotypeBodoni",
+        "lastModified":"2022-03-14 19:41:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "266 10 s",
+                        "181.901 10  136 94.7404  136 250 s",
+                        "136 405.26  181.901 490  266 490 s",
+                        "350.099 490  396 405.26  396 250 s",
+                        "396 94.7404  350.099 10 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "266.106 -10 s",
+                        "377.179 -10  496 124.381  496 250 s",
+                        "496 375.619  377.179 510  266.106 510 s",
+                        "155.033 510  36.2121 375.619  36.2121 250 s",
+                        "36.2121 124.381  155.033 -10 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oMelior",
+        "lastModified":"2022-03-14 19:41:57",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":576,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "140 250 s",
+                        "140 411  182 475  288 475 s",
+                        "394 475  436 411  436 250 s",
+                        "436 89  394 25  288 25 s",
+                        "182 25  140 89 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "50 250 s",
+                        "50 69  123 -10  288 -10 s",
+                        "453 -10  526 69  526 250 s",
+                        "526 431  453 510  288 510 s",
+                        "123 510  50 431 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_0CurveTension",
+        "lastModified":"2022-03-14 06:56:46",
+        "layers":[
+          {
+            "name":"Regular",
+            "note":"Rhombus",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 250  250 0  250 0 s",
+                        "250 0  500 250  500 250 s",
+                        "500 250  250 500  250 500 s",
+                        "250 500  0 250 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ],
+        "note":"Rhombus"
+      },
+      {
+        "name":"_55CurveTension",
+        "lastModified":"2022-03-14 18:22:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "note":"Circle (Cubic)",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 112.021  112.021 0  250 0 s",
+                        "387.979 0  500 112.021  500 250 s",
+                        "500 387.979  387.979 500  250 500 s",
+                        "112.021 500  0 387.979 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ],
+        "note":"Circle (Cubic)"
+      },
+      {
+        "name":"_100CurveTension",
+        "lastModified":"2022-03-14 07:28:30",
+        "layers":[
+          {
+            "name":"Regular",
+            "note":"Squircle",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 0  0 0  250 0 s",
+                        "500 0  500 0  500 250 s",
+                        "500 500  500 500  250 500 s",
+                        "0 500  0 500 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ],
+        "note":"Squircle"
+      },
+      {
+        "name":"_200CurveTension",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 -249.46  -249.46 0  250 0 s",
+                        "749.46 0  500 -249.46  500 250 s",
+                        "500 749.46  749.46 500  250 500 s",
+                        "-249.46 500  0 749.46 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_300CurveTension",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 -498.998  -498.998 0  250 0 s",
+                        "998.998 0  500 -498.998  500 250 s",
+                        "500 998.998  998.998 500  250 500 s",
+                        "-498.998 500  0 998.998 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_400CurveTension",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 -750.501  -750.501 0  250 0 s",
+                        "1250.5 0  500 -750.501  500 250 s",
+                        "500 1250.5  1250.5 500  250 500 s",
+                        "-750.501 500  0 1250.5 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_3782CurveTension",
+        "lastModified":"2022-03-11 18:56:00",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250 s",
+                        "0 -9204.14  -9204.14 0  250 0 s",
+                        "9704.14 0  500 -9204.14  500 250 s",
+                        "500 9704.14  9704.14 500  250 500 s",
+                        "-9204.14 500  0 9704.14 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"oReverseContrast",
+        "lastModified":"2022-03-14 07:00:42",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "flags":0,
+            "advanceWidth":600,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "80 250 s",
+                        "80 312.37  124.084 328  300 328 s",
+                        "475.916 328  520 312.37  520 250 s",
+                        "520 187.63  475.916 172  300 172 s",
+                        "124.084 172  80 187.63 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "40 250 s",
+                        "40 64.9687  114.969 -10  300 -10 s",
+                        "485.031 -10  560 64.9687  560 250 s",
+                        "560 435.031  485.031 510  300 510 s",
+                        "114.969 510  40 435.031 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_50PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:34:52",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "note":"This becomes a superellipse with a curve tension of 67 (this font's default).",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 250",
+                        "0 82.5  82.5 0  250 0",
+                        "250 0",
+                        "417.5 0  500 82.5  500 250",
+                        "500 250",
+                        "500 417.5  417.5 500  250 500",
+                        "250 500",
+                        "82.5 500  0 417.5  0 250"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:250}",
+                                "500 0 {r:250}",
+                                "500 500 {r:250}",
+                                "0 500 {r:250}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ],
+        "note":"This becomes a superellipse with a curve tension of 67 (this font's default)."
+      },
+      {
+        "name":"_40PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:34:48",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 200 s",
+                        "0 66  66 0  200 0 s",
+                        "300 0 s",
+                        "434 0  500 66  500 200 s",
+                        "500 300 s",
+                        "500 434  434 500  300 500 s",
+                        "200 500 s",
+                        "66 500  0 434  0 300 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:200}",
+                                "500 0 {r:200}",
+                                "500 500 {r:200}",
+                                "0 500 {r:200}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_33PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:35:19",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 167 s",
+                        "0 55.11  55.11 0  167 0 s",
+                        "333 0 s",
+                        "444.89 0  500 55.11  500 167 s",
+                        "500 333 s",
+                        "500 444.89  444.89 500  333 500 s",
+                        "167 500 s",
+                        "55.11 500  0 444.89  0 333 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:167}",
+                                "500 0 {r:167}",
+                                "500 500 {r:167}",
+                                "0 500 {r:167}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_25PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:35:21",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 125 s",
+                        "0 41.25  41.25 0  125 0 s",
+                        "375 0 s",
+                        "458.75 0  500 41.25  500 125 s",
+                        "500 375 s",
+                        "500 458.75  458.75 500  375 500 s",
+                        "125 500 s",
+                        "41.25 500  0 458.75  0 375 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:125}",
+                                "500 0 {r:125}",
+                                "500 500 {r:125}",
+                                "0 500 {r:125}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_15PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:36:36",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 74.9999 s",
+                        "0 24.75  24.75 0  75 0 s",
+                        "425 0 s",
+                        "475.25 0  500 24.75  500 75 s",
+                        "500 425 s",
+                        "500 475.25  475.25 500  425 500 s",
+                        "75 500 s",
+                        "24.75 500  0 475.25  0 425 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:75}",
+                                "500 0 {r:75}",
+                                "500 500 {r:75}",
+                                "0 500 {r:75}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_10PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:36:55",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 50.0002 s",
+                        "0 16.5001  16.5001 0  50.0002 0 s",
+                        "450 0 s",
+                        "483.5 0  500 16.5001  500 50.0002 s",
+                        "500 450 s",
+                        "500 483.5  483.5 500  450 500 s",
+                        "50.0002 500 s",
+                        "16.5001 500  0 483.5  0 450 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:50}",
+                                "500 0 {r:50}",
+                                "500 500 {r:50}",
+                                "0 500 {r:50}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_5PercentRoundedSquare",
+        "lastModified":"2022-03-14 05:38:22",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 24.9996 s",
+                        "0 8.2499  8.2499 0  24.9996 0 s",
+                        "475 0 s",
+                        "491.75 0  500 8.2499  500 24.9996 s",
+                        "500 475 s",
+                        "500 491.75  491.75 500  475 500 s",
+                        "24.9996 500 s",
+                        "8.2499 500  0 491.75  0 475 s"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "0 0 {r:25}",
+                                "500 0 {r:25}",
+                                "500 500 {r:25}",
+                                "0 500 {r:25}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Curve Tension",
+      "sgn":"CAL Curve Tension",
+      "creationDate":"2022/03/11 08:05:33",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"float"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Curve Tension",
+          "ffn":"CAL Curve Tension Regular",
+          "psn":"CALCurveTension-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"a807229b-6152-4691-823d-38c908474780\"><Window id=\"e63c1ed3-d1f6-4795-8db4-c07a90f9ffc1\" title=\" CAL Curve Tension Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

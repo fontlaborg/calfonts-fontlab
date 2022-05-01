@@ -1,0 +1,1437 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":27,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-04-01 09:47:21",
+        "advanceWidth":250
+      },
+      {
+        "name":"A",
+        "unicode":"0041",
+        "lastModified":"2022-04-02 20:43:23",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":754,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "251 271",
+                        "317 425 s",
+                        "361 529  376 573  376 573",
+                        "376 573  392 530  436 425 s",
+                        "501 271"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "545 157",
+                        "612 0",
+                        "753 0",
+                        "444 720",
+                        "312 720",
+                        "1 0",
+                        "138 0",
+                        "206 157"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":157,
+                "thickness":113
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"B",
+        "unicode":"0042",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":608,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "306 314",
+                        "398 314  450 277  450 210 s",
+                        "450 144  399 108  306 108 s",
+                        "180 108",
+                        "180 314"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "304 613",
+                        "388 613  435 577  435 515 s",
+                        "435 453  389 419  305 419 s",
+                        "180 419",
+                        "180 613"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "352 0",
+                        "488 0  583 85  583 207 s",
+                        "583 284  545 339  474 370",
+                        "531 401  566 453  566 523 s",
+                        "566 637  474 720  347 720 s",
+                        "52 720",
+                        "52 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":108
+              },
+              {
+                "horizontal":true,
+                "position":613,
+                "thickness":107
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"C",
+        "unicode":"0043",
+        "lastModified":"2022-04-02 20:42:55",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":722,
+            "metricsLeft":"=O",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "706 124",
+                        "598 206",
+                        "555 146  485 107  404 107 s",
+                        "268 107  163 217  163 360 s",
+                        "163 503  268 613  404 613 s",
+                        "480 613  547 579  590 524",
+                        "700 599",
+                        "634 685  529 738  405 738 s",
+                        "189 738  29 577  29 361 s",
+                        "29 144  191 -18  407 -18 s",
+                        "534 -18  640 37 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"D",
+        "unicode":"0044",
+        "lastModified":"2022-04-02 20:40:32",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":723,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "303 606 s",
+                        "451 606  561 502  561 362 s",
+                        "561 221  450 114  303 114 s",
+                        "181 114",
+                        "181 606"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "317 0 s",
+                        "530 0  694 157  694 362 s",
+                        "694 566  532 720  317 720 s",
+                        "53 720",
+                        "53 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":114
+              },
+              {
+                "horizontal":true,
+                "position":606,
+                "thickness":114
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              },
+              {
+                "vertical":true,
+                "position":561,
+                "thickness":133
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":558,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "525 0",
+                        "525 118",
+                        "180 118",
+                        "180 309",
+                        "500 309",
+                        "500 423",
+                        "180 423",
+                        "180 604",
+                        "517 604",
+                        "517 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":118
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"F",
+        "unicode":"0046",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":535,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "180 0",
+                        "180 302",
+                        "495 302",
+                        "495 416",
+                        "180 416",
+                        "180 604",
+                        "510 604",
+                        "510 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":604,
+                "thickness":116
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"G",
+        "unicode":"0047",
+        "lastModified":"2022-04-02 20:42:59",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":798,
+            "metricsLeft":"=O",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "628 282",
+                        "615 173  532 103  415 103 s",
+                        "269 103  162 212  162 360 s",
+                        "162 506  265 614  403 614 s",
+                        "488 614  562 574  606 502",
+                        "722 562",
+                        "670 670  547 739  406 739 s",
+                        "192 739  29 577  29 363 s",
+                        "29 147  198 -20  417 -20 s",
+                        "654 -20  786 174  769 396",
+                        "432 396",
+                        "432 282"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-20,
+                "thickness":123
+              },
+              {
+                "horizontal":true,
+                "position":282,
+                "thickness":114
+              },
+              {
+                "horizontal":true,
+                "position":614,
+                "thickness":125
+              },
+              {
+                "vertical":true,
+                "position":29,
+                "thickness":134
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "lastModified":"2022-04-02 20:42:47",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":698,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "518 320",
+                        "518 0",
+                        "646 0",
+                        "646 720",
+                        "518 720",
+                        "518 438",
+                        "180 438",
+                        "180 720",
+                        "52 720",
+                        "52 0",
+                        "180 0",
+                        "180 320"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"I",
+        "unicode":"0049",
+        "lastModified":"2022-04-02 20:42:47",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":232,
+            "metricsLeft":"H",
+            "metricsRight":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "180 0",
+                        "180 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"J",
+        "unicode":"004a",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":470,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "4 161",
+                        "11 55  97 -19  215 -19 s",
+                        "340 -19  418 62  418 191 s",
+                        "418 720",
+                        "290 720",
+                        "290 205 s",
+                        "290 139  263 104  212 104 s",
+                        "164 104  135 135  126 197"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"K",
+        "unicode":"004b",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":640,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "180 0",
+                        "180 335",
+                        "475 0",
+                        "645 0",
+                        "314 372",
+                        "612 720",
+                        "452 720",
+                        "180 399",
+                        "180 720",
+                        "52 720",
+                        "52 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"L",
+        "unicode":"004c",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":505,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "489 0",
+                        "489 118",
+                        "180 118",
+                        "180 720",
+                        "52 720",
+                        "52 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":118
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":62.5,
+                "delta":200.001,
+                "thickness":-118
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"M",
+        "unicode":"004d",
+        "lastModified":"2022-04-02 20:42:47",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":862,
+            "metricsLeft":"H",
+            "metricsRight":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 0",
+                        "174 0",
+                        "174 459 s",
+                        "174 500  173 578  173 578",
+                        "175 578",
+                        "175 578  200 501  213 464 s",
+                        "379 0",
+                        "480 0",
+                        "646 464 s",
+                        "659 501  683 578  683 578",
+                        "685 578",
+                        "685 578  684 500  684 459 s",
+                        "684 0",
+                        "810 0",
+                        "810 720",
+                        "604 720",
+                        "475 347 s",
+                        "462 308  432 208  432 208",
+                        "432 208  403 308  390 347 s",
+                        "260 720",
+                        "52 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":51,
+                "thickness":122
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"N",
+        "unicode":"004e",
+        "lastModified":"2022-04-02 20:42:47",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":740,
+            "metricsLeft":"H",
+            "metricsRight":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "174 0",
+                        "174 413 s",
+                        "174 443  173 520  173 520",
+                        "174 520",
+                        "205 476  239 427  263 395 s",
+                        "560 0",
+                        "688 0",
+                        "688 720",
+                        "566 720",
+                        "566 307 s",
+                        "566 277  567 197  567 197",
+                        "565 197",
+                        "534 243  498 293  474 325 s",
+                        "178 720",
+                        "52 720",
+                        "52 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"O",
+        "unicode":"004f",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":822,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "29 360 s",
+                        "29 146  196 -20  411 -20 s",
+                        "626 -20  794 146  794 360 s",
+                        "794 574  627 740  411 740 s",
+                        "195 740  29 574 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "411 104 s",
+                        "270 104  162 215  162 360 s",
+                        "162 505  270 616  411 616 s",
+                        "552 616  661 505  661 360 s",
+                        "661 215  552 104 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-20,
+                "thickness":123.5
+              },
+              {
+                "horizontal":true,
+                "position":616.5,
+                "thickness":123.5
+              },
+              {
+                "vertical":true,
+                "position":661,
+                "thickness":133
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"P",
+        "unicode":"0050",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":587,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "293 607 s",
+                        "375 607  430 563  430 498 s",
+                        "430 432  374 387  292 387 s",
+                        "180 387",
+                        "180 607"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "311 272",
+                        "457 272  562 367  562 497 s",
+                        "562 627  458 720  311 720 s",
+                        "52 720",
+                        "52 0",
+                        "180 0",
+                        "180 272"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":272,
+                "thickness":115
+              },
+              {
+                "horizontal":true,
+                "position":607,
+                "thickness":113
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              },
+              {
+                "vertical":true,
+                "position":430,
+                "thickness":132
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Q",
+        "unicode":"0051",
+        "lastModified":"2022-04-02 20:43:00",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":828,
+            "metricsLeft":"=O",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "434 232",
+                        "545 136",
+                        "507 112  461 98  412 98 s",
+                        "271 98  162 211  162 357 s",
+                        "162 503  271 616  412 616 s",
+                        "553 616  663 503  663 357 s",
+                        "663 307  650 260  627 221",
+                        "508 319"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "725 140",
+                        "768 202  793 277  793 360 s",
+                        "793 574  626 740  411 740 s",
+                        "196 740  29 574  29 360 s",
+                        "29 146  196 -20  411 -20 s",
+                        "498 -20  577 7  640 54",
+                        "754 -45",
+                        "834 50"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"R",
+        "unicode":"0052",
+        "lastModified":"2022-04-02 20:42:38",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":608,
+            "metricsLeft":"H",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "304 609 s",
+                        "379 609  432 564  432 503 s",
+                        "432 441  378 396  304 396 s",
+                        "180 396",
+                        "180 609"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "239 281",
+                        "447 0",
+                        "608 0",
+                        "385 293",
+                        "496 317  565 397  565 505 s",
+                        "565 635  466 720  314 720 s",
+                        "52 720",
+                        "52 0",
+                        "180 0",
+                        "180 281"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"S",
+        "unicode":"0053",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":547,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "14 59",
+                        "14 59  106 -20  259 -20 s",
+                        "400 -20  513 57  513 204 s",
+                        "513 439  174 391  174 532 s",
+                        "174 592  230 616  283 616 s",
+                        "363 616  443 571  443 571",
+                        "494 683",
+                        "494 683  407 738  283 738 s",
+                        "149 738  40 665  40 525 s",
+                        "40 285  378 335  378 194 s",
+                        "378 127  315 104  257 104 s",
+                        "149 104  77 175  77 175"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"T",
+        "unicode":"0054",
+        "lastModified":"2022-04-02 20:42:07",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":634,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "17 720",
+                        "17 604",
+                        "253 604",
+                        "253 0",
+                        "381 0",
+                        "381 604",
+                        "617 604",
+                        "617 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":604,
+                "thickness":116
+              },
+              {
+                "vertical":true,
+                "position":254,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"U",
+        "unicode":"0055",
+        "lastModified":"2022-04-02 20:43:11",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":701,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "51 720",
+                        "51 273 s",
+                        "51 97  171 -20  351 -20 s",
+                        "531 -20  650 96  650 273 s",
+                        "650 720",
+                        "522 720",
+                        "522 280 s",
+                        "522 169  457 101  352 101 s",
+                        "247 101  179 170  179 280 s",
+                        "179 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-20,
+                "thickness":121
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"V",
+        "unicode":"0056",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":715,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "355 157",
+                        "354 156  354 155  354 154"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "356 154",
+                        "356 155  356 156  355 158"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "416 0",
+                        "714 720",
+                        "578 720",
+                        "418 322 s",
+                        "386 241  363 178  355 158",
+                        "348 178  327 239  295 321 s",
+                        "139 720",
+                        "1 720",
+                        "288 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"W",
+        "unicode":"0057",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":1044,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "217 0",
+                        "360 0",
+                        "476 370 s",
+                        "496 436  522 532  522 532",
+                        "522 532  548 437  568 370 s",
+                        "683 0",
+                        "827 0",
+                        "1043 720",
+                        "915 720",
+                        "805 348 s",
+                        "785 282  755 166  755 166",
+                        "755 166  725 283  705 349 s",
+                        "591 720",
+                        "459 720",
+                        "345 349 s",
+                        "324 283  293 166  293 166",
+                        "293 166  264 282  245 348 s",
+                        "134 720",
+                        "1 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"X",
+        "unicode":"0058",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":736,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "153 0",
+                        "281 174 s",
+                        "312 216  367 296  367 296",
+                        "367 296  423 215  453 174 s",
+                        "581 0",
+                        "741 0",
+                        "457 374",
+                        "719 720",
+                        "562 720",
+                        "435 545 s",
+                        "405 504  372 455  372 455",
+                        "372 455  338 504  308 546 s",
+                        "181 720",
+                        "23 720",
+                        "282 375",
+                        "-4 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":21
+              },
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Y",
+        "unicode":"0059",
+        "lastModified":"2022-04-02 20:42:07",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":658,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "395 0",
+                        "395 279",
+                        "657 720",
+                        "512 720",
+                        "399 525 s",
+                        "370 475  333 403  333 403",
+                        "333 403  294 477  265 526 s",
+                        "150 720",
+                        "1 720",
+                        "267 280",
+                        "267 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":720,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":268,
+                "thickness":127
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Z",
+        "unicode":"005a",
+        "lastModified":"2022-04-02 20:40:16",
+        "layers":[
+          {
+            "name":"Semibold",
+            "advanceWidth":645,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "29 0",
+                        "616 0",
+                        "616 117",
+                        "369 117 s",
+                        "278 117  188 115  188 116",
+                        "188 116  245 180  291 235 s",
+                        "596 606",
+                        "596 720",
+                        "47 720",
+                        "47 606",
+                        "265 606 s",
+                        "368 606  439 607  439 607",
+                        "439 607  378 539  333 484 s",
+                        "29 117"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":606,
+                "thickness":114
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Semibold",
+    "interpolationFlags":0,
+    "hinting":{
+    },
+    "info":{
+      "tfn":"CAL Family Starter Font",
+      "sgn":"CAL Family Starter Font",
+      "creationDate":"2022/04/01 10:47:21",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Semibold",
+          "tsn":"Regular",
+          "sgn":"CAL Family Starter Font",
+          "ffn":"CAL Family Starter Font Regular",
+          "psn":"CALFamilyStarterFont-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":755,
+          "descender":-245,
+          "xHeight":510,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":250,
+          "safeTop":1000,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"1e0c7ef4-04ed-4792-8a4c-cdaefcb4c4c7\"><Window id=\"388988ea-eb28-4f03-946a-139127f979ce\" title=\" CAL Family Starter Font Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

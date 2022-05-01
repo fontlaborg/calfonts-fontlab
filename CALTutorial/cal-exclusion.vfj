@@ -1,0 +1,212 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":2,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-02 22:32:13",
+        "advanceWidth":250
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "lastModified":"2022-03-03 20:08:10",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":895,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"H:Regular",
+                  "name":"H",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 104",
+                        "596 104",
+                        "596 700",
+                        "0 700"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "226 166 s",
+                        "226 -19  376 -169  561 -169 s",
+                        "745 -169  895 -19  895 166 s",
+                        "895 350  745 500  561 500 s",
+                        "376 500  226 350 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              },
+              {
+                "elementData":"H:Regular"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Exclusion",
+      "sgn":"CAL Exclusion",
+      "creationDate":"2022/03/02 22:32:13",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Exclusion",
+          "ffn":"CAL Exclusion Regular",
+          "psn":"CALExclusion-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1494\" height=\"811\" mainWindow=\"0\" uid=\"fff4a36e-4af7-40f8-bb10-bc9701983f8b\"><Window id=\"b462bd49-77bf-4016-b840-888d3d4064e6\" title=\" CAL Exclusion Regular \" permanent=\"0\" active=\"1\" fl.columns=\"-228\" fl.list=\"false\" fl.list_width=\"640\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/><Window id=\"4b926faa-1212-4251-b75c-e93d27253642\" title=\" H @ CAL Exclusion Regular\" permanent=\"0\" active=\"0\" fl.alternative_view=\"false\" fl.echo=\"false\" fl.fontsize=\"103\" fl.mode=\"1\" fl.property=\"true\" fl.sidebar=\"false\" fl.text=\"H\" fl.tracking_h=\"1000\" fl.tracking_w=\"0\" fl.type=\"glyph\" fl.wrap=\"0\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n",
+    "canvases":[
+      {
+        "properties":{
+          "uuid":"4b926faa-1212-4251-b75c-e93d27253642",
+          "view":{
+            "showGlyphGuides":257,
+            "showFontGuides":1,
+            "showElementGuides":1,
+            "showGlyphMetrics":7,
+            "showFontMetrics":1,
+            "showAnchors":1,
+            "showPins":1,
+            "showNodeLinks":1,
+            "showMask":1,
+            "showCurveControl":1,
+            "showNodes":257,
+            "showHandles":257,
+            "showMetricsTable":4,
+            "showRulers":265,
+            "showMasterRelations":256,
+            "showStemThickness":256,
+            "showStickers":1,
+            "lockFontMetrics":1,
+            "snapGlyphGuides":1,
+            "snapFontGuides":1,
+            "snapElementGuides":1,
+            "snapFontMetrics":1,
+            "snapHints":1,
+            "snapZones":1,
+            "snapGrid":1,
+            "snapGlobalMask":1,
+            "snapMask":1
+          }
+        },
+        "tx":{
+          "xScale":7.0874,
+          "yScale":7.0874,
+          "xOffset":276.325,
+          "yOffset":-203
+        },
+        "tool":16,
+        "ffn":"CAL Exclusion Regular",
+        "text":"H"
+      }
+    ]
+  }
+}

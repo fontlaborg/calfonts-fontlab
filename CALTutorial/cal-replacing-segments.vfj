@@ -1,0 +1,812 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":3,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-07 05:43:10",
+        "advanceWidth":250
+      },
+      {
+        "name":"P",
+        "unicode":"0050",
+        "lastModified":"2022-03-07 05:43:37",
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":542,
+            "advanceHeight":720,
+            "metricsLeft":"=H",
+            "metricsRight":"O*.8",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 0 {n:'.sv07'}",
+                        "324 0 {n:'.ab02'}",
+                        "324 5 {n:'.sv08'}",
+                        "250 12 s {n:'.sv09'}",
+                        "215 15  207 20  207 46 s {n:'.sh06'}",
+                        "207 287 {n:'.sv04'}",
+                        "245 271  280 264  319 264 s {n:'.dv01'}",
+                        "452 264  542 347  542 455 s {n:'.sh03'}",
+                        "542 540  486 606  413 634 s",
+                        "375 648  331 653  290 653 s {n:'.at01'}",
+                        "254 653  216 650  207 650 s {n:'.sv03'}",
+                        "0 650",
+                        "0 645 {n:'.at04'}",
+                        "60 638 s {n:'.sv05'}",
+                        "90 635  95 629  95 604 s {n:'.sh01'}",
+                        "95 46 s",
+                        "95 21  90 16  60 12 s {n:'.sv06'}",
+                        "0 5 {n:'.ab01'}"
+                      ],
+                      "properties":{
+                        "0":{
+                          "proportion":0
+                        },
+                        "1":{
+                          "proportion":0
+                        },
+                        "10":{
+                          "proportion":0
+                        },
+                        "13":{
+                          "proportion":0
+                        },
+                        "19":{
+                          "proportion":0
+                        },
+                        "2":{
+                          "proportion":0
+                        },
+                        "22":{
+                          "proportion":0
+                        },
+                        "24":{
+                          "proportion":0
+                        },
+                        "25":{
+                          "proportion":0
+                        },
+                        "28":{
+                          "proportion":0
+                        },
+                        "3":{
+                          "proportion":0
+                        },
+                        "32":{
+                          "proportion":0
+                        },
+                        "33":{
+                          "proportion":0
+                        },
+                        "6":{
+                          "proportion":0
+                        }
+                      }
+                    },
+                    {
+                      "nodes":[
+                        "207 642 {n:'.sv01'}",
+                        "241 642 s {n:'.sv02'}",
+                        "352 642  429 571  429 465 s {n:'.sh04'}",
+                        "429 367  359 282  277 282 s {n:'.dv02'}",
+                        "255 282  229 288  207 296 {n:'.sh05'}"
+                      ],
+                      "properties":{
+                        "1":{
+                          "proportion":0
+                        },
+                        "10":{
+                          "proportion":0
+                        },
+                        "4":{
+                          "proportion":0
+                        },
+                        "7":{
+                          "proportion":0
+                        }
+                      }
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"28 0",
+                    "contour":{
+                      "id":"contour",
+                      "nodes":[
+                        "179 0",
+                        "34 0",
+                        "34 5",
+                        "94 12 s",
+                        "124 15  129 21  129 46 s",
+                        "129 117",
+                        "174 100"
+                      ]
+                    },
+                    "index":1,
+                    "element":{
+                      "id":"element",
+                      "elementData":{
+                        "name":"ucOuterSerif",
+                        "contours":[
+                          "contour"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":-6
+                      }
+                    }
+                  }
+                },
+                "thickness":5,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"28 5",
+                    "contour":"contour",
+                    "index":2,
+                    "element":"element"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"123 0",
+                    "contour":{
+                      "id":"contour.1",
+                      "nodes":[
+                        "111 0",
+                        "223 0",
+                        "223 650",
+                        "111 650"
+                      ]
+                    },
+                    "index":0,
+                    "element":{
+                      "id":"element.1",
+                      "elementData":{
+                        "name":"ucStem",
+                        "contours":[
+                          "contour.1"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":12
+                      }
+                    }
+                  }
+                },
+                "thickness":112,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 0",
+                    "contour":"contour.1",
+                    "index":1,
+                    "element":"element.1"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"456.667 465.518",
+                    "contour":{
+                      "id":"contour.2",
+                      "nodes":[
+                        "208.726 299",
+                        "256.578 274.645  299.244 263.713  346.792 263.713 s",
+                        "479.748 263.713  570 347.258  570 455.412 s",
+                        "570 539.822  513.686 606.369  440.902 633.874 s",
+                        "402.531 648.375  358.576 653  318.073 653 s",
+                        "282.299 653  243.72 650  206 650",
+                        "206 642",
+                        "268.871 642 s",
+                        "379.595 642  456.667 570.722  456.667 465.518 s",
+                        "456.667 366.669  387.266 282.036  305.231 282.036 s",
+                        "275.91 282.036  238.193 292.104  214.394 306.284"
+                      ]
+                    },
+                    "index":20,
+                    "element":{
+                      "id":"element.2",
+                      "elementData":{
+                        "name":"Pbowl",
+                        "contours":[
+                          "contour.2"
+                        ]
+                      }
+                    }
+                  }
+                },
+                "thickness":113.333,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"570 455.412",
+                    "contour":"contour.2",
+                    "index":6,
+                    "element":"element.2"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"346.792 263.713",
+                    "contour":"contour.2",
+                    "index":3,
+                    "element":"element.2"
+                  }
+                },
+                "thickness":32.6366,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 296.35",
+                    "contour":{
+                      "id":"contour.3",
+                      "nodes":[
+                        "235 296.35 {n:'.sh05'}",
+                        "235.098 642.002 {n:'.sv01'}",
+                        "268.85 642 s {n:'.sv02'}",
+                        "380 642  456.65 570.7  456.65 465.5 s {n:'.sh04'}",
+                        "456.65 366.65  387.25 282.05  305.25 282.05 s {n:'.dv02'}",
+                        "283.4 282.05  256.95 287.6 c"
+                      ],
+                      "properties":{
+                        "0":{
+                          "proportion":0
+                        },
+                        "2":{
+                          "proportion":0
+                        },
+                        "5":{
+                          "proportion":0
+                        },
+                        "8":{
+                          "proportion":0
+                        }
+                      }
+                    },
+                    "index":0,
+                    "element":{
+                      "id":"element.3",
+                      "elementData":{
+                        "contours":[
+                          {
+                            "id":"contour.4",
+                            "nodes":[
+                              "28 0 {n:'.sv07'}",
+                              "352 0 {n:'.ab02'}",
+                              "352 5 {n:'.sv08'}",
+                              "278 12 s {n:'.sv09'}",
+                              "243.05 15.3  235 20  235 46 s {n:'.sh06'}",
+                              "235 286.8 {n:'.sv04'}",
+                              "272.65 270.95  308.1 263.7  346.8 263.7 s {n:'.dv01'}",
+                              "479.75 263.7  570 347.25  570 455.4 s {n:'.sh03'}",
+                              "570 539.8  513.7 606.35  440.9 633.85 s",
+                              "402.55 648.4  358.6 653  318.05 653 s {n:'.at01'}",
+                              "282.3 653  243.7 650  235 649.9 s {n:'.sv03'}",
+                              "28 650",
+                              "28 645 {n:'.at04'}",
+                              "88 638 s {n:'.sv05'}",
+                              "117.951 634.506  123 629  123 604 s {n:'.sh01'}",
+                              "123 46 s",
+                              "123 21  117.95 15.5  88 12 s {n:'.sv06'}",
+                              "28 5 {n:'.ab01'}"
+                            ],
+                            "properties":{
+                              "0":{
+                                "proportion":0
+                              },
+                              "1":{
+                                "proportion":0
+                              },
+                              "10":{
+                                "proportion":0
+                              },
+                              "13":{
+                                "proportion":0
+                              },
+                              "19":{
+                                "proportion":0
+                              },
+                              "2":{
+                                "proportion":0
+                              },
+                              "22":{
+                                "proportion":0
+                              },
+                              "24":{
+                                "proportion":0
+                              },
+                              "25":{
+                                "proportion":0
+                              },
+                              "28":{
+                                "proportion":0
+                              },
+                              "3":{
+                                "proportion":0
+                              },
+                              "32":{
+                                "proportion":0
+                              },
+                              "33":{
+                                "proportion":0
+                              },
+                              "6":{
+                                "proportion":0
+                              }
+                            }
+                          },
+                          "contour.3"
+                        ]
+                      },
+                      "active":true
+                    }
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"235.098 642.002",
+                    "contour":"contour.3",
+                    "index":1,
+                    "element":"element.3"
+                  }
+                },
+                "thickness":10.9983,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"318.05 653",
+                    "contour":"contour.4",
+                    "index":19,
+                    "element":"element.3"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "tags":[
+          "LATINSTD"
+        ]
+      },
+      {
+        "name":"R",
+        "unicode":"0052",
+        "lastModified":"2022-03-07 05:43:41",
+        "colorFlag":121,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":664,
+            "advanceHeight":720,
+            "metricsLeft":"H",
+            "metricsRight":"=V",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "0 0 {n:'.ab01'}",
+                        "308 0 {n:'.sv01'}",
+                        "308 5 {n:'.ab02'}",
+                        "271 9 s {n:'.sv02'}",
+                        "256 11  244 13  235 16 s",
+                        "214 23  207 34  207 59 s {n:'.sh03'}",
+                        "207 315 {n:'.av01'}",
+                        "221 310  235 306  250 303 {n:'.dv01'}",
+                        "283 219  378 68  442 0 {n:'.ab03'}",
+                        "664 0 {n:'.sv03'}",
+                        "664 5 {n:'.ab04'}",
+                        "630 6  585 22  555 44 s",
+                        "496 87  403 217  368 304 {n:'.sh05'}",
+                        "454 326  519 397  519 478 s {n:'.sh02'}",
+                        "519 519  503 556  473 585 s",
+                        "428 629  357 650  259 650 s {n:'.at01'}",
+                        "0 650",
+                        "0 645 {n:'.at02'}",
+                        "60 638 s {n:'.sv04'}",
+                        "90 635  95 629  95 604 s {n:'.sh01'}",
+                        "95 46 s",
+                        "95 21  90 16  60 12 s {n:'.sv05'}",
+                        "0 5 {n:'.sv06'}"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "207 640 {n:'.sv07'}",
+                        "242 640 s {n:'.sv08'}",
+                        "296 640  338 620  366 582 s",
+                        "387 554  399 516  399 479 s {n:'.sh04'}",
+                        "399 389  329 319  239 319 s {n:'.av02'}",
+                        "228 319  218 320  207 322 {n:'.av03'}"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"28 0",
+                    "contour":{
+                      "id":"contour.5",
+                      "nodes":[
+                        "179 0",
+                        "34 0",
+                        "34 5",
+                        "94 12 s",
+                        "124 15  129 21  129 46 s",
+                        "129 117",
+                        "174 100"
+                      ]
+                    },
+                    "index":1,
+                    "element":{
+                      "id":"element.4",
+                      "elementData":{
+                        "id":"ucOuterSerif:Regular",
+                        "name":"ucOuterSerif",
+                        "contours":[
+                          "contour.5"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":-6
+                      }
+                    }
+                  }
+                },
+                "thickness":5,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"28 5",
+                    "contour":"contour.5",
+                    "index":2,
+                    "element":"element.4"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"269.82 640",
+                    "contour":{
+                      "id":"contour.6",
+                      "nodes":[
+                        "333.619 376.529 s",
+                        "446.737 376.529  542 459.628  542 558.302 s",
+                        "542 598.799  525.954 635.849  495.7 665.206 s",
+                        "450.938 708.641  380.471 730  281.936 730 s",
+                        "187 730",
+                        "187 720",
+                        "264.82 720 s",
+                        "319 720  361.062 700.174  388.973 662.042 s",
+                        "409.764 633.637  421.667 596.18  421.667 559.154 s",
+                        "421.667 469.293  351.556 399  261.928 399 s",
+                        "240.994 399  223.103 402.835  191.028 414.196",
+                        "191.028 412",
+                        "230.194 390.655  286.98 376.529 c"
+                      ]
+                    },
+                    "index":12,
+                    "element":{
+                      "id":"element.6",
+                      "elementData":{
+                        "name":"Rbowl",
+                        "contours":[
+                          "contour.6"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":5,
+                        "yOffset":-80.0005
+                      },
+                      "active":true
+                    }
+                  }
+                },
+                "thickness":10,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"28 650",
+                    "contour":"contour.5",
+                    "index":1,
+                    "element":{
+                      "elementData":"ucOuterSerif:Regular",
+                      "transform":{
+                        "yScale":-1,
+                        "xOffset":-6,
+                        "yOffset":650
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"123 0",
+                    "contour":{
+                      "id":"contour.7",
+                      "nodes":[
+                        "111 0",
+                        "223 0",
+                        "223 650",
+                        "111 650"
+                      ]
+                    },
+                    "index":0,
+                    "element":{
+                      "id":"element.5",
+                      "elementData":{
+                        "name":"ucStem",
+                        "contours":[
+                          "contour.7"
+                        ]
+                      },
+                      "transform":{
+                        "xOffset":12
+                      }
+                    }
+                  }
+                },
+                "thickness":112,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 0",
+                    "contour":"contour.7",
+                    "index":1,
+                    "element":"element.5"
+                  }
+                }
+              },
+              {
+                "vertical":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"426.667 479.154",
+                    "contour":"contour.6",
+                    "index":18,
+                    "element":"element.6"
+                  }
+                },
+                "thickness":120.333,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"547 478.301",
+                    "contour":"contour.6",
+                    "index":3,
+                    "element":"element.6"
+                  }
+                }
+              },
+              {
+                "horizontal":true,
+                "node0":{
+                  "nodeNode":{
+                    "point":"277.542 303.315",
+                    "contour":{
+                      "id":"contour.8",
+                      "nodes":[
+                        "28 0 {n:'.ab01'}",
+                        "336 0 {n:'.sv01'}",
+                        "336 5 {n:'.ab02'}",
+                        "299 9 s {n:'.sv02'}",
+                        "284 10.6  272.4 12.85  263.2 15.95 s",
+                        "242.15 22.95  235 33.85  235 59 s {n:'.sh03'}",
+                        "235 315.035 {n:'.av01'}",
+                        "248.626 310.293  263.027 306.343  277.542 303.315 {n:'.dv01'}",
+                        "311.428 218.584  405.835 67.9655  470 0 {n:'.ab03'}",
+                        "692.35 0 {n:'.sv03'}",
+                        "692.35 5 {n:'.ab04'}",
+                        "657.55 6.35  612.95 22.3  582.85 44.15 s",
+                        "523.724 87  431.348 217.009  395.946 303.823 {n:'.sh05'}",
+                        "482.171 326.111  547 396.914  547 478.3 s {n:'.sh02'}",
+                        "547 518.8  530.95 555.85  500.7 585.2 s",
+                        "455.95 628.65  385.45 650  286.95 650 s {n:'.at01'}",
+                        "28 650",
+                        "28 645 {n:'.at02'}",
+                        "88 638 s {n:'.sv04'}",
+                        "117.95 634.5  123 629  123 604 s {n:'.sh01'}",
+                        "123 46 s",
+                        "123 21  117.95 15.5  88 12 s {n:'.sv05'}",
+                        "28 5 {n:'.sv06'}"
+                      ]
+                    },
+                    "index":13,
+                    "element":{
+                      "id":"element.7",
+                      "elementData":{
+                        "contours":[
+                          "contour.8",
+                          {
+                            "id":"contour.9",
+                            "nodes":[
+                              "235 640 {n:'.sv07'}",
+                              "269.8 640 s {n:'.sv08'}",
+                              "323.6 640  366.05 620.15  393.95 582.05 s",
+                              "414.75 553.65  426.65 516.2  426.65 479.15 s {n:'.sh04'}",
+                              "426.65 389.3  356.55 319  266.95 319 s {n:'.av02'}",
+                              "256.272 319  246.37 320.015  235 322.499 {n:'.av03'}"
+                            ]
+                          }
+                        ]
+                      },
+                      "active":true
+                    }
+                  }
+                },
+                "thickness":19.1839,
+                "nodeThickness":{
+                  "nodeNode":{
+                    "point":"235 322.499",
+                    "contour":"contour.9",
+                    "index":13,
+                    "element":"element.7"
+                  }
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"botuc",
+                "point":"355 0",
+                "exprX":"center*1.07"
+              },
+              {
+                "name":"topuc",
+                "point":"272 700",
+                "exprX":"center*.82"
+              }
+            ]
+          }
+        ],
+        "tags":[
+          "LATINSTD"
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Replacing Segments",
+      "sgn":"CAL Replacing Segments",
+      "creationDate":"2022/03/07 05:43:10",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Replacing Segments",
+          "ffn":"CAL Replacing Segments Regular",
+          "psn":"CALReplacingSegments-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"0\" y=\"25\" width=\"1536\" height=\"811\" mainWindow=\"0\" uid=\"529d7f82-a1ca-4bfc-bd93-b91d5b196306\"><Window id=\"00c432ff-7926-4e7d-9801-b6166a9365aa\" title=\" CAL Replacing Segments Regular \" permanent=\"0\" active=\"1\" fl.columns=\"-151\" fl.list=\"false\" fl.list_width=\"420\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

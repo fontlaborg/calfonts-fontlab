@@ -1,0 +1,279 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":3,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-06 01:59:34",
+        "advanceWidth":250
+      },
+      {
+        "name":"Aring",
+        "unicode":"00c5",
+        "lastModified":"2022-03-06 03:43:29",
+        "colorFlag":240,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":240,
+            "advanceWidth":773,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-2 0 {n:'n00'}",
+                        "202 0",
+                        "251 120",
+                        "511 120",
+                        "560 0",
+                        "775 0",
+                        "505 666",
+                        "531 693  547 731  547 773 s",
+                        "547 867  474 930  382 930 s {n:'n06'}",
+                        "287 930  216 863  216 773 s",
+                        "216 728  234 688  265 660"
+                      ],
+                      "properties":{
+                        "0":{
+                          "proportion":0
+                        },
+                        "12":{
+                          "proportion":0
+                        }
+                      }
+                    },
+                    {
+                      "nodes":[
+                        "382 722 s {n:'n12'}",
+                        "352 722  330 743  330 772 s",
+                        "330 802  352 824  382 824 s {n:'n18'}",
+                        "412 824  434 802  434 772 s",
+                        "434 743  413 722 c"
+                      ],
+                      "properties":{
+                        "0":{
+                          "proportion":0
+                        },
+                        "6":{
+                          "proportion":0
+                        }
+                      }
+                    },
+                    {
+                      "nodes":[
+                        "310 288",
+                        "328 332 s",
+                        "350 390  380 474  380 474",
+                        "382 474",
+                        "382 474  413 391  435 332 s",
+                        "452 288"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"g",
+        "unicode":"0067",
+        "lastModified":"2022-03-06 03:51:55",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":620,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "60 -154",
+                        "60 -154  141 -215  279 -215 s",
+                        "465 -215  588 -103  588 66 s",
+                        "588 510",
+                        "407 510",
+                        "406 469",
+                        "371 503  322 523  264 523 s",
+                        "126 523  19 407  19 256 s",
+                        "19 106  126 -5  271 -5 s",
+                        "328 -5  375 12  408 42",
+                        "402 -15  346 -54  266 -54 s",
+                        "182 -54  121 -12  121 -12"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "205 255 s",
+                        "205 314  248 357  307 357 s",
+                        "365 357  407 314  407 255 s",
+                        "407 196  365 153  307 153 s",
+                        "248 153  205 197 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Diacritic Height",
+      "sgn":"CAL Diacritic Height",
+      "creationDate":"2022/03/06 01:59:34",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Diacritic Height",
+          "ffn":"CAL Diacritic Height Regular",
+          "psn":"CALDiacriticHeight-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":510,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "guidelines":[
+            {
+              "name":"100lineGap",
+              "style":"custom",
+              "horizontal":true,
+              "position":880,
+              "color":"#d63e22"
+            },
+            {
+              "name":"150lineGap",
+              "style":"custom",
+              "horizontal":true,
+              "position":930,
+              "color":"#d63e22"
+            },
+            {
+              "name":"200lineGap",
+              "style":"custom",
+              "horizontal":true,
+              "position":980,
+              "color":"#d63e22"
+            },
+            {
+              "name":"250lineGap",
+              "style":"custom",
+              "horizontal":true,
+              "position":1030,
+              "color":"#d63e22"
+            },
+            {
+              "name":"50lineGap",
+              "style":"custom",
+              "horizontal":true,
+              "position":830,
+              "color":"#d63e22"
+            }
+          ],
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"33a08a05-aff1-42ef-9354-105c7fd1bcec\"><Window id=\"47cc9f13-c7f4-45ea-b88f-da6e92c9ca8d\" title=\" CAL Diacritic Height Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

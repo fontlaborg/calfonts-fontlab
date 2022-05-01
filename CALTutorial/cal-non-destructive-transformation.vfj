@@ -1,0 +1,223 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":2,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-03 21:15:21",
+        "advanceWidth":250
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "lastModified":"2022-03-03 21:16:29",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":708,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "28 0 {n:'.ab03'}",
+                        "608 0 {n:'.ab02'}",
+                        "606 50  637 130  689 210 {n:'.sh01'}",
+                        "681 215 {n:'.sv06'}",
+                        "632 144  567 87  492 51 s {n:'.ih01'}",
+                        "431 21  374 10  275 10 s {n:'.sv03'}",
+                        "235 10 {n:'.sv04'}",
+                        "235 316 {n:'.dv01'}",
+                        "239 316 s {n:'.iv01'}",
+                        "330 316  370 310  399 290 s {n:'.sh05'}",
+                        "430 270  449 237  473 163 {n:'.sv10'}",
+                        "483 166 {n:'.sh04'}",
+                        "463 220  453 267  453 316 s",
+                        "453 365  464 416  485 478 {n:'.sh03'}",
+                        "475 481 {n:'.sv09'}",
+                        "455 417  436 381  410 359 {n:'.sh06'}",
+                        "374 331  324 330  239 330 s {n:'.sv08'}",
+                        "235 330 {n:'.dv02'}",
+                        "235 640 {n:'.sv05'}",
+                        "408 640  528 608  641 467 {n:'.sv07'}",
+                        "648 471 {n:'.sh02'}",
+                        "609 529  579 604  576 650 {n:'.at01'}",
+                        "28 650",
+                        "28 645 {n:'.at02'}",
+                        "88 638 s {n:'.sv01'}",
+                        "118 635  123 629  123 604 s {n:'.dh01'}",
+                        "123 46 s",
+                        "123 21  118 15  88 12 s {n:'.sv02'}",
+                        "28 5 {n:'.ab01'}"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Non-Destructive Transform",
+      "sgn":"CAL Non-Destructive Transform",
+      "creationDate":"2022/03/03 21:15:21",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Non-Destructive Transform",
+          "ffn":"CAL Non-Destructive Transform R",
+          "psn":"CALNonDestructiveTransform-Rg",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":650,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"0\" y=\"25\" width=\"1536\" height=\"811\" mainWindow=\"0\" uid=\"e9a40ca1-e198-4099-8c9a-9ddbd789ad76\"><Window id=\"673d0104-14d3-457f-9058-7493d2e211d2\" title=\" CAL Non-Destructive Transform R \" permanent=\"0\" active=\"1\" fl.columns=\"-228\" fl.list=\"false\" fl.list_width=\"640\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/><Window id=\"71b112ae-1130-4374-81cd-42049527e98e\" title=\" E @ CAL Non-Destructive Transform R\" permanent=\"0\" active=\"0\" fl.alternative_view=\"false\" fl.echo=\"false\" fl.fontsize=\"103\" fl.mode=\"1\" fl.property=\"true\" fl.sidebar=\"false\" fl.text=\"E\" fl.tracking_h=\"1000\" fl.tracking_w=\"0\" fl.type=\"glyph\" fl.wrap=\"0\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n",
+    "canvases":[
+      {
+        "properties":{
+          "uuid":"71b112ae-1130-4374-81cd-42049527e98e",
+          "view":{
+            "showGlyphGuides":257,
+            "showFontGuides":1,
+            "showElementGuides":1,
+            "showGlyphMetrics":7,
+            "showFontMetrics":1,
+            "showAnchors":1,
+            "showPins":1,
+            "showNodeLinks":1,
+            "showMask":1,
+            "showCurveControl":1,
+            "showNodes":257,
+            "showHandles":257,
+            "showMetricsTable":4,
+            "showRulers":265,
+            "showMasterRelations":256,
+            "showStemThickness":256,
+            "showStickers":1,
+            "lockFontMetrics":1,
+            "snapGlyphGuides":1,
+            "snapFontGuides":1,
+            "snapElementGuides":1,
+            "snapFontMetrics":1,
+            "snapHints":1,
+            "snapZones":1,
+            "snapGrid":1,
+            "snapGlobalMask":1,
+            "snapMask":1
+          }
+        },
+        "tx":{
+          "xScale":7.0874,
+          "yScale":7.0874,
+          "xOffset":344.58,
+          "yOffset":-203
+        },
+        "tool":16,
+        "ffn":"CAL Non-Destructive Transform R",
+        "text":"E"
+      }
+    ]
+  }
+}

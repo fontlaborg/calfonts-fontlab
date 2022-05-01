@@ -1,0 +1,449 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":3,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-31 09:08:37",
+        "advanceWidth":250
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "lastModified":"2022-04-01 05:15:38",
+        "layers":[
+          {
+            "name":"ExtraBlack",
+            "flags":0,
+            "advanceWidth":770,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "20 0",
+                        "755 0",
+                        "755 310",
+                        "420 310",
+                        "420 318",
+                        "672 318",
+                        "672 420",
+                        "420 420",
+                        "420 428",
+                        "714 428",
+                        "714 720",
+                        "20 720"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#00cce5"
+          },
+          {
+            "name":"Hairline",
+            "flags":0,
+            "advanceWidth":613,
+            "advanceHeight":750,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "110 0",
+                        "577 0",
+                        "577 2",
+                        "112 2",
+                        "112 368",
+                        "519 368",
+                        "519 370",
+                        "112 370",
+                        "112 718",
+                        "556 718",
+                        "556 720",
+                        "110 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#bac000",
+            "active":true
+          },
+          {
+            "name":":wt=200",
+            "flags":0,
+            "advanceWidth":691,
+            "advanceHeight":750,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "666 0",
+                        "666 155",
+                        "265 155",
+                        "265 311",
+                        "595 311",
+                        "595 427",
+                        "265 427",
+                        "265 574",
+                        "635 574",
+                        "635 720",
+                        "65 720"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#fe4a46"
+          },
+          {
+            "name":":wt=100",
+            "flags":0,
+            "advanceWidth":652,
+            "advanceHeight":750,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "88 0",
+                        "621 0",
+                        "621 90",
+                        "188 90",
+                        "188 329",
+                        "557 329",
+                        "557 409",
+                        "188 409",
+                        "188 632",
+                        "595 632",
+                        "595 720",
+                        "88 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#1f964d"
+          },
+          {
+            "name":":wt=300",
+            "flags":0,
+            "advanceWidth":731,
+            "advanceHeight":750,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "43 0",
+                        "711 0",
+                        "711 244",
+                        "343 244",
+                        "343 302",
+                        "634 302",
+                        "634 434",
+                        "343 434",
+                        "343 490",
+                        "675 490",
+                        "675 720",
+                        "43 720"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#3989c2"
+          }
+        ]
+      },
+      {
+        "name":"I",
+        "unicode":"0049",
+        "lastModified":"2022-04-01 05:16:05",
+        "layers":[
+          {
+            "name":"ExtraBlack",
+            "advanceWidth":440,
+            "metricsLeft":"E",
+            "metricsRight":"|",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "20 0",
+                        "420 0",
+                        "420 720",
+                        "20 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#00cce5"
+          },
+          {
+            "name":"Hairline",
+            "advanceWidth":222,
+            "metricsLeft":"E",
+            "metricsRight":"|",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "110 0",
+                        "112 0",
+                        "112 720",
+                        "110 720"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "color":"#bac000",
+            "active":true
+          }
+        ]
+      }
+    ],
+    "axes":[
+      {
+        "name":"weight",
+        "shortName":"wt",
+        "tag":"wght",
+        "designMinimum":2,
+        "designMaximum":400,
+        "minimum":2,
+        "maximum":1000,
+        "default":400,
+        "playStart":2,
+        "playEnd":400,
+        "axisGraph":{
+          "2":2,
+          "400":1000
+        },
+        "axisInstances":[
+          {
+            "name":"(Regular)",
+            "value":90
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Hairline",
+    "currentMaster":"Hairline",
+    "interpolationFlags":0,
+    "hinting":{
+    },
+    "info":{
+      "tfn":"CAL Weight Axis",
+      "sgn":"CAL Weight Axis",
+      "creationDate":"2022/03/31 10:08:37",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Hairline",
+          "tsn":"Hairline",
+          "sgn":"CAL Weight Axis",
+          "ffn":"CAL Weight Axis Hairline",
+          "psn":"CALWeightAxis-Hairline",
+          "weight_name":"Hairline",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":1,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wt":2
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"ExtraBlack",
+          "tsn":"ExtraBlack",
+          "sgn":"Weight Axis Definition",
+          "ffn":"Weight Axis Definition ExtBlk",
+          "psn":"WeightAxisDefinition-ExtBlk",
+          "weight_name":"ExtraBlack",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":720,
+          "measurement":250,
+          "weight":950,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "bold":true,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wt":400
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"4416518f-0a1e-42f0-b8c2-22e0e3be3e4c\"><Window id=\"ea6b0fd5-7144-44c2-a454-50f2c12aa702\" title=\" CAL Weight Axis: Hairline \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

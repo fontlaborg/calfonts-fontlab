@@ -1,0 +1,741 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":2,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-04-01 05:18:59",
+        "advanceWidth":250
+      },
+      {
+        "name":"k",
+        "unicode":"006b",
+        "lastModified":"2022-04-01 05:24:58",
+        "layers":[
+          {
+            "name":"Condensed Black Display",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":574,
+            "advanceHeight":640,
+            "metricsLeft":"=l",
+            "metricsRight":"=n",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "241 735",
+                        "0 691",
+                        "0 689",
+                        "41 657.4",
+                        "41 30",
+                        "0 2",
+                        "0 0",
+                        "266 0",
+                        "266 2",
+                        "241 27"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "251.997 242.06",
+                        "321.35 29.5",
+                        "285 2",
+                        "285 0",
+                        "574 0",
+                        "574 2",
+                        "539.6 26.7",
+                        "394.499 398.674"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "230.884 199.574",
+                        "487 480",
+                        "328.6 480",
+                        "328.6 478",
+                        "389.878 435.897",
+                        "387.025 452.413",
+                        "232.204 238.55"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"bot",
+                "point":"280 0",
+                "appearance":6
+              }
+            ],
+            "color":"#00cce5"
+          },
+          {
+            "name":"Black Display",
+            "flags":0,
+            "advanceWidth":743,
+            "advanceHeight":640,
+            "metricsLeft":"=l",
+            "metricsRight":"=n",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "304 735",
+                        "0 688",
+                        "0 686",
+                        "80 603",
+                        "80 75",
+                        "0 2",
+                        "0 0",
+                        "363 0",
+                        "363 2",
+                        "304 60"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "325.878 230.202",
+                        "415 65",
+                        "392 2",
+                        "392 0",
+                        "743 0",
+                        "743 2",
+                        "649 104",
+                        "501.226 347.828"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "726 480",
+                        "457 480",
+                        "457 478",
+                        "503.098 380.154",
+                        "507.594 398.196",
+                        "292 237",
+                        "292.4 190.4"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"bot",
+                "point":"376 0",
+                "appearance":6
+              }
+            ],
+            "color":"#00cce5"
+          },
+          {
+            "name":"Condensed News Display",
+            "colorFlag":121,
+            "flags":0,
+            "advanceWidth":339,
+            "advanceHeight":640,
+            "metricsLeft":"=l",
+            "metricsRight":"=n",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "117 730",
+                        "1 707",
+                        "1 705",
+                        "41 674.231",
+                        "41 30",
+                        "1 2",
+                        "1 0",
+                        "149 0",
+                        "149 2",
+                        "117 30"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "132.381 253.186",
+                        "219.481 29.5726",
+                        "186 2",
+                        "186 0",
+                        "338 0",
+                        "338 2",
+                        "304.946 29.2213",
+                        "185.068 319.818"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "107.676 201.216",
+                        "317 465",
+                        "179 465",
+                        "179 463",
+                        "230.674 429.155",
+                        "227.013 445.895",
+                        "109.028 257.837"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"bot",
+                "point":"166 0",
+                "appearance":6
+              }
+            ],
+            "color":"#00cce5"
+          },
+          {
+            "name":"News Display",
+            "flags":0,
+            "advanceWidth":590,
+            "advanceHeight":640,
+            "metricsLeft":"=l",
+            "metricsRight":"=n",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "197 735",
+                        "6 695",
+                        "6 693",
+                        "101 632.626",
+                        "101 60",
+                        "6 2",
+                        "6 0",
+                        "287 0",
+                        "287 2",
+                        "197 60"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "240.709 261.895",
+                        "389.973 56.4651",
+                        "337 2",
+                        "337 0",
+                        "587 0",
+                        "587 2",
+                        "497.191 71.7452",
+                        "313.629 316.494"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "537 465",
+                        "285.5 465",
+                        "285.5 463",
+                        "369.849 394.009",
+                        "369.696 409.387",
+                        "185.58 252.591",
+                        "184.993 201.441"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"bot",
+                "point":"310 0",
+                "appearance":6
+              }
+            ],
+            "color":"#00cce5",
+            "active":true
+          }
+        ]
+      }
+    ],
+    "axes":[
+      {
+        "name":"weight",
+        "shortName":"wt",
+        "tag":"wght",
+        "designMinimum":450,
+        "designMaximum":950,
+        "minimum":1,
+        "maximum":1000,
+        "default":400,
+        "playStart":450,
+        "playEnd":950,
+        "axisGraph":{
+          "450":1,
+          "950":1000
+        },
+        "axisInstances":[
+          {
+            "name":"Thin",
+            "value":100
+          },
+          {
+            "name":"Extra Light",
+            "value":200
+          },
+          {
+            "name":"Light",
+            "value":300
+          },
+          {
+            "name":"(Regular)",
+            "value":400
+          },
+          {
+            "name":"Medium",
+            "value":500
+          },
+          {
+            "name":"Semi Bold",
+            "value":600
+          },
+          {
+            "name":"Bold",
+            "value":700
+          },
+          {
+            "name":"Extra Bold",
+            "value":800
+          },
+          {
+            "name":"Black",
+            "value":900
+          }
+        ]
+      },
+      {
+        "name":"width",
+        "shortName":"wd",
+        "tag":"wdth",
+        "designMinimum":50,
+        "designMaximum":100,
+        "minimum":50,
+        "maximum":100,
+        "default":100,
+        "playStart":50,
+        "playEnd":100,
+        "axisGraph":{
+          "50":50,
+          "100":100
+        },
+        "axisInstances":[
+          {
+            "name":"Ultra Condensed",
+            "value":50
+          },
+          {
+            "name":"Extra Condensed",
+            "value":62.5
+          },
+          {
+            "name":"Condensed",
+            "value":75
+          },
+          {
+            "name":"Semi Condensed",
+            "value":87.5
+          },
+          {
+            "name":"(Normal)",
+            "value":100
+          },
+          {
+            "name":"Semi Expanded",
+            "value":112.5
+          },
+          {
+            "name":"Expanded",
+            "value":125
+          },
+          {
+            "name":"Extra Expanded",
+            "value":150
+          },
+          {
+            "name":"Ultra Expanded",
+            "value":200
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"News Display",
+    "currentMaster":"News Display",
+    "interpolationFlags":2,
+    "openTypeFeatures":[
+      {
+        "feature":"#> languagesystem\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt;\n#< languagesystem\n###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2022-3-31 22:19\n# Generated by: FontLab 8.0.0\n# Font PostScript name: Unnamed-Regular\n#\n# Totals:\n# Languagesystems: 0\n# GSUB lookups: 0\n# GPOS lookups: 0\n\n#\n# Languagesystem definitions\n#\n\n#> languagesystem\n#< languagesystem\n\n\n#\n# Lookup definitions\n#\n\n\n"
+      }
+    ],
+    "hinting":{
+    },
+    "info":{
+      "tfn":"CAL Width Axis",
+      "sgn":"CAL Width Axis News",
+      "creationDate":"2022/04/01 06:18:59",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"float"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"News Display",
+          "tsn":"News",
+          "sgn":"CAL Width Axis News",
+          "ffn":"CAL Width Axis News",
+          "psn":"CALWidthAxis-News",
+          "weight_name":"News",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":450,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wd":100,
+            "wt":450
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"Condensed News Display",
+          "tsn":"News Condensed",
+          "sgn":"Width Demo k News Cond",
+          "ffn":"Width Demo k News Condensed",
+          "psn":"WidthDemok-NewsCondensed",
+          "weight_name":"News",
+          "width_name":"Condensed",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":450,
+          "width":3,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wd":50,
+            "wt":450
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"Black Display",
+          "tsn":"Black",
+          "sgn":"Width Demo k Black",
+          "ffn":"Width Demo k Black",
+          "psn":"WidthDemok-Black",
+          "weight_name":"Black",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":900,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wd":100,
+            "wt":900
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      },
+      {
+        "fontMaster":{
+          "name":"Condensed Black Display",
+          "tsn":"Black",
+          "sgn":"Width Demo k Black",
+          "ffn":"Width Demo k Black",
+          "psn":"WidthDemok-Black",
+          "weight_name":"Black",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":900,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "location":{
+            "wd":50,
+            "wt":900
+          },
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"0274f04e-2e87-4c5e-ba1c-33d8fe78e929\"><Window id=\"fe40540f-e934-4410-918f-2e7ce4cf5a47\" title=\" CAL Width Axis: News Display \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"true\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}
