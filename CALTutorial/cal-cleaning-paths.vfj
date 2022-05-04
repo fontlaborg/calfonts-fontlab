@@ -1,0 +1,616 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":8,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-09 06:11:16",
+        "advanceWidth":250
+      },
+      {
+        "name":"c",
+        "unicode":"0063",
+        "lastModified":"2022-05-04 01:06:31",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":636,
+            "elements":[
+              {
+                "elementData":{
+                  "name":"a",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1167 713",
+                        "1183 721",
+                        "1195 713",
+                        "1175 697"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "384 548",
+                        "416 556  451 560  482 560 s",
+                        "572 560  545 541  604 513",
+                        "604 498 s",
+                        "604 455  600 415  545 415 s",
+                        "521 415  502 435  502 458 s",
+                        "502 482  518 498  537 509",
+                        "518 521",
+                        "494 521 s",
+                        "337 521  189 349  189 192 s",
+                        "189 126  208 39  290 39 s",
+                        "380 39  427 141  467 141",
+                        "490 122",
+                        "463 39  314 -31  232 -31 s",
+                        "134 -31  52 24  52 130 s",
+                        "52 298  200 443  334 525 s",
+                        "349 537  369 537 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-383 274",
+                        "-383 404",
+                        "-301 490  -187 556  -66 556 s",
+                        "-19 556  28 541  28 486 s",
+                        "28 372  -258 259  -352 271 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-293 435",
+                        "-293 431  -289 423  -289 419",
+                        "-309 396  -360 329  -363 302",
+                        "-285 302  -85 357  -85 458 s",
+                        "-85 482  -109 509  -136 498",
+                        "-152 505",
+                        "-203 505  -258 431 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-289 32",
+                        "-172 32  -144 122  -105 122",
+                        "-97 106",
+                        "-101 94",
+                        "-164 28  -266 -31  -360 -31",
+                        "-367 -31  -375 -27  -383 -27",
+                        "-383 86",
+                        "-340 43",
+                        "-332 39  -297 32 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"v",
+        "unicode":"0076",
+        "lastModified":"2022-05-04 01:06:31",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":580,
+            "elements":[
+              {
+                "elementData":{
+                  "name":"9",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "460 479 s",
+                        "460 504  470 522  499 522 s",
+                        "538 522  552 486  552 455 s",
+                        "552 249  322 111  166 26 s",
+                        "145 16  92 -20  74 -20",
+                        "53 2",
+                        "53 9  177 157  177 345 s",
+                        "177 377  177 440  131 440 s",
+                        "81 440  67 356  53 320",
+                        "32 313",
+                        "17 338",
+                        "17 409  106 518  180 518 s",
+                        "293 518  290 426  290 341 s",
+                        "290 253  251 164  251 125",
+                        "255 118",
+                        "286 143  325 150  357 175 s",
+                        "400 210  524 359  524 412 s",
+                        "524 423  524 433  520 444",
+                        "502 444 s",
+                        "481 444  460 455 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "594 55 s",
+                        "594 108  630 154  640 203",
+                        "640 9",
+                        "619 9  594 33 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"n",
+        "unicode":"006e",
+        "lastModified":"2022-03-09 06:42:27",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":618,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-16 464 s",
+                        "-20 464  -20 483  -20 486",
+                        "-20 488  -20 507  -16 507 s",
+                        "-11 507  -10 488  -10 485 s",
+                        "-10 482  -11 464 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "124 478",
+                        "138 492",
+                        "198 498  259 507  319 506",
+                        "319 468",
+                        "373 468  416 510  471 510 s",
+                        "508 510  555 513  555 464 s",
+                        "555 318  444 213  444 82 s",
+                        "444 72  454 62  464 62 s",
+                        "508 62  525 103  583 103",
+                        "572 38  444 6  388 6 s",
+                        "365 6  319 9  319 41 s",
+                        "319 175  444 292  444 430 s",
+                        "444 451  440 465  416 465 s",
+                        "218 465  208 19  138 6 s",
+                        "110 1  82 -3  54 -8",
+                        "41 6",
+                        "110 214 s",
+                        "130 273  168 384  193 437",
+                        "197 444",
+                        "197 471  140 454 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "694 326",
+                        "694 34",
+                        "642 55  638 85  638 136 s",
+                        "638 220  644 256 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-16 103",
+                        "-20 103  -20 108  -20 110",
+                        "-20 113  -20 118  -17 118 s",
+                        "-13 118  -10 114  -10 110",
+                        "-10 108  -14 103 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"t",
+        "unicode":"0074",
+        "lastModified":"2022-03-09 06:40:44",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":361,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "249 561 s",
+                        "265 561  278 572  294 572 s",
+                        "304 572  308 568  308 558 s",
+                        "308 539  290 510  291 502",
+                        "294 495",
+                        "312 495 s",
+                        "337 495  360 502  385 502 s",
+                        "398 502  399 483  399 474",
+                        "385 460",
+                        "355 460  308 461  280 453",
+                        "270 430  265 393  252 373 s",
+                        "238 352  232 322  225 297 s",
+                        "223 290  216 286  214 279 s",
+                        "202 225  144 123  144 81 s",
+                        "144 47  167 50  193 50 s",
+                        "198 50  205 56  211 57",
+                        "228 65  279 102  287 119",
+                        "291 119",
+                        "298 109",
+                        "298 97  288 85  280 77 s",
+                        "270 67  260 51  249 43 s",
+                        "203 9  159 -3  103 -3 s",
+                        "73 -3  47 6  30 32 s",
+                        "25 40  26 71  26 81",
+                        "37 99  43 117  47 137 s",
+                        "48 141  55 149  57 154",
+                        "59 176  77 194  78 217",
+                        "83 226  88 253  92 258",
+                        "101 284  165 428  165 446 s",
+                        "165 449  161 452  158 453",
+                        "120 453",
+                        "117 460",
+                        "115 462  110 471  110 474 s",
+                        "110 483  122 495  131 495",
+                        "144 488",
+                        "156 489  166 492  179 492",
+                        "183 495",
+                        "185 498  186 502  186 506",
+                        "193 518  195 565  210 565 s",
+                        "223 565  236 561 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-127 408 s",
+                        "-127 422  -123 433  -113 443 s",
+                        "-58 499  -55 513  19 513 s",
+                        "24 513  37 506  40 502",
+                        "57 492  57 464  57 446 s",
+                        "57 413  28 380  -5 380 s",
+                        "-29 380  -50 397  -50 422 s",
+                        "-50 432  -46 442  -47 453",
+                        "-45 457  -43 461  -40 464",
+                        "-40 469  -45 473  -50 474",
+                        "-58 469  -102 419  -113 408 s",
+                        "-119 402  -127 404  -127 394"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-127 471",
+                        "-127 502",
+                        "-127 500  -124 493  -124 492",
+                        "-124 485 s",
+                        "-124 480  -126 475 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "371 133 s",
+                        "371 165  372 194  385 224 s",
+                        "388 230  394 238  395 245",
+                        "402 262",
+                        "417 279  427 301  444 318 s",
+                        "448 322  453 326  454 332",
+                        "454 11",
+                        "424 11  372 73  371 102",
+                        "371 112  371 123 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Q",
+        "unicode":"0051",
+        "lastModified":"2022-03-09 07:22:34",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1033,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "430 701 s",
+                        "430 716  422 730  421 745",
+                        "611 745  829 636  829 421 s",
+                        "829 392  808 228  776 226",
+                        "774 199  694 161  674 137",
+                        "685 110  796 84  825 84 s",
+                        "864 84  879 90  905 120",
+                        "914 120",
+                        "914 36  761 37  705 18",
+                        "706 15  707 12  707 9 s",
+                        "707 2  702 0  696 0 s",
+                        "664 0  566 80  528 97",
+                        "519 97 s",
+                        "499 97  497 76  497 62 s",
+                        "497 51  505 42  505 31 s",
+                        "505 20  502 18  492 18 s",
+                        "322 18  119 153  119 337 s",
+                        "119 638  430 560 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "417 501",
+                        "412 501",
+                        "412 445  421 389  421 333 s",
+                        "421 239",
+                        "373 226  322 221  275 204",
+                        "297 170  421 137  461 137 s",
+                        "472 137  470 141  470 151 s",
+                        "470 183  469 215  469 246 s",
+                        "469 373  474 499  474 626",
+                        "466 626  459 627  451 627 s",
+                        "443 627  422 625  417 617"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "492 399",
+                        "497 399",
+                        "563 435  630 470  696 506",
+                        "696 566  555 621  505 621",
+                        "503 621  492 621  492 617 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "168 390 s",
+                        "168 323  208 257  257 213",
+                        "274 221  294 225  310 235",
+                        "310 275 s",
+                        "310 355  311 493  301 568 s",
+                        "300 574  292 572  288 572",
+                        "211 536  168 476 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "355 492",
+                        "357 492  358 493  358 495",
+                        "358 496  356 497  355 497",
+                        "354 497  351 496  351 495",
+                        "351 493  354 492 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "541 404",
+                        "535 403  496 382  492 377",
+                        "492 262",
+                        "513 262  535 284  554 293 s",
+                        "732 381",
+                        "745 390",
+                        "745 410  726 484  701 484 s",
+                        "677 484  554 421 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "488 124",
+                        "639 124  751 176  751 343 s",
+                        "751 352  750 361  745 368",
+                        "699 355  542 267  488 239"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xScale":1.0223,
+                  "yScale":1.0223,
+                  "xOffset":-12,
+                  "yOffset":-33
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"l",
+        "unicode":"006c",
+        "lastModified":"2022-03-09 07:57:34",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":283,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "63 -13",
+                        "221 -9",
+                        "218 708",
+                        "65 708"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"i",
+        "unicode":"0069",
+        "lastModified":"2022-03-09 07:59:15",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":258,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "43 0",
+                        "183 0",
+                        "183 500",
+                        "43 500"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "70 619 s",
+                        "70 574  108 543  155 543 s",
+                        "197 543  228 574  228 619 s",
+                        "228 663  189 695  143 695 s",
+                        "96 695  70 663 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Cleaning Paths",
+      "sgn":"CAL Cleaning Paths",
+      "creationDate":"2022/03/09 06:11:16",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Cleaning Paths",
+          "ffn":"CAL Cleaning Paths Regular",
+          "psn":"CALCleaningPaths-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "fontNote":"CAL Cleaning Paths\n\n!!! --- \n\nThis font file is licensed to you for demonstration purposes only. It is part of the FontLab tutorial series by Dave Lawrence (California Type Foundry). \n",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"0\" y=\"25\" width=\"1536\" height=\"811\" mainWindow=\"0\" uid=\"8c94a703-1de9-4bb2-8e99-0a4626f9a56f\"><Window id=\"07142441-8372-469b-8bcb-7c48f4252559\" title=\" CAL Cleaning Paths Regular \" permanent=\"0\" active=\"1\" fl.columns=\"-228\" fl.list=\"false\" fl.list_width=\"420\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}

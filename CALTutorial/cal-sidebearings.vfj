@@ -1,0 +1,191 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":2,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2022-03-18 20:58:22",
+        "advanceWidth":250
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "lastModified":"2022-05-04 01:01:26",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":909,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "20 -9",
+                        "66 -9  108 0  158 0 s",
+                        "208 0  263 -9  295 -9",
+                        "299.5 -6.75  299.5 2.3  295 5",
+                        "242.01 6.152  216.984 17.4695  207.961 31.5054 s",
+                        "196.655 49.0927  193 98.1305  193 218.313 s",
+                        "193 298.717  194.636 339.908  198.037 344.767 s",
+                        "200.895 348.85  221.731 351.174  254 351 s",
+                        "625 349 s",
+                        "681.62 348.695  697.612 347.388  702.198 342.801 s",
+                        "710.483 334.517  712.882 284.201  710.077 181.792 s",
+                        "707.424 84.9727  703.047 48.4454  692.058 34.0757 s",
+                        "682.565 21.6617  657.427 11.7786  603 3",
+                        "598.375 -1.625  599.559 -9.9118  605 -11",
+                        "645.999 -4.3063  703.439 0  751.686 0 s",
+                        "793.817 0  844.271 -3.2839  890 -9",
+                        "894 -6  895 1  892 5",
+                        "836.438 10.0511  821.732 12.2978  814.669 20.146 s",
+                        "800.583 35.7963  792 101.376  792 444.371 s",
+                        "792 614.375  794.109 645.181  804.953 663.255 s",
+                        "817.673 684.455  850.599 701.779  890 708",
+                        "895 711.75  895 718.5  890 721",
+                        "847 718  787 712  728.9 712 s",
+                        "686.149 712  644.674 715.249  614 721",
+                        "607.475 718.825  606.447 711.628  612 707",
+                        "657.277 700.004  687 692  696.587 678.578 s",
+                        "707.859 662.798  713 609.144  713 509.786 s",
+                        "713 435.298  710.11 391.555  704.706 383.988 s",
+                        "699.931 377.303  675.947 374.704  622 375 s",
+                        "258 377 s",
+                        "214.412 377.24  203.044 378.923  199.115 385.798 s",
+                        "195.988 391.272  194.529 405.368  194.529 469.516 s",
+                        "194.529 565.161  197.772 669.04  229.673 691.371 s",
+                        "240.933 699.253  268.531 705.912  299 707",
+                        "305.064 712.053  303.927 720.01  297 721",
+                        "272.881 716.98  195.804 712  157.108 712 s",
+                        "122.178 712  60.534 716.058  21 721",
+                        "14.7308 718.91  13.2059 711.794  18 707",
+                        "56.3422 704.604  83.173 697.827  93.0196 687.98 s",
+                        "110.134 670.866  115 605.419  115 388.582 s",
+                        "115 148.051  109.012 50.0149  91.5741 28.2176 s",
+                        "83.8463 18.5578  61.6719 8.6236  20 5",
+                        "13.5 2.2143  13.5 -6.8333 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"CAL Sidebearings",
+      "sgn":"CAL Sidebearings",
+      "creationDate":"2022/03/18 20:58:22",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8117"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"float"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"CAL Sidebearings",
+          "ffn":"CAL Sidebearings Regular",
+          "psn":"CALSidebearings-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  },
+  "workspace":{
+    "xml":"<?xml version=\"1.0\"?><WindowManager><FrameWindow x=\"42\" y=\"25\" width=\"1272\" height=\"811\" mainWindow=\"0\" uid=\"7c10b5cf-9ad2-4cf8-b93c-9af3826d9819\"><Window id=\"db9144bc-9d27-40e1-878f-975f12bb93c3\" title=\" CAL Sidebearings Regular \" permanent=\"0\" active=\"1\" fl.columns=\"12\" fl.list=\"false\" fl.list_width=\"404\" fl.property=\"true\" fl.sidebar=\"false\" fl.table=\"true\" fl.type=\"font\"/></FrameWindow><Desktop index=\"0\"><Toolbar id=\"1001\" visible=\"true\" dockEdge=\"2\"/><Dock edge=\"4\" dockedEdges=\"13\" width=\"222\" height=\"839\"><Column><Section width=\"220\" height=\"798\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\" collapsed=\"0\" canDock=\"2\"><Panel id=\"11\" title=\"Fonts\" active=\"1\" floatingWidth=\"-1\" floatingHeight=\"-1\" dockedVerticalWidth=\"220\" dockedVerticalHeight=\"798\" dockedHorizontalWidth=\"-1\" dockedHorizontalHeight=\"-1\"/></Section></Column></Dock></Desktop><Desktop index=\"1\"/></WindowManager>\n"
+  }
+}
