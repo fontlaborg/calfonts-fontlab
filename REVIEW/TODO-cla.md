@@ -297,7 +297,8 @@ def validate_vfj_file(file_path):
     except Exception as e:
         return False, f"Error: {str(e)}"
 
-def main():
+
+The validation script is now located at [`scripts/validate_vfj.py`](scripts/validate_vfj.py). Please refer to that file for the latest implementation.
     """Validate all .vfj files in repository."""
     repo_root = Path(__file__).parent.parent
     vfj_files = list(repo_root.glob("**/*.vfj"))
