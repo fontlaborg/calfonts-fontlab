@@ -119,7 +119,7 @@ jobs:
           find CALTutorial -name '*.zip' -print0 | xargs -0 -I{} unzip -t {}
       - name: Size guardrail
         run: |
-          awk '{ if ($5 > 100*1024*1024) print $9, $5 }' <(ls -lR) || true
+          find . -type f -size +100M -ls || true
 ```
 
 7) Folder structure refinements (non-breaking)
