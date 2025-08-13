@@ -34,6 +34,5 @@
 ./CALTutorial/one-window-variations.fl_workspace
 ./LICENSE
 ./README.md
-./REVIEW/files-list.txt
 ./REVIEW/tree-dump.txt
 ./_config.yml
