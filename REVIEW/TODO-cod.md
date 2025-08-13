@@ -112,7 +112,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: { lfs: true }
+        with:
+          lfs: true
       - name: Check zip integrity
         run: |
           set -e
