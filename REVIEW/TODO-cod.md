@@ -116,7 +116,7 @@ jobs:
       - name: Check zip integrity
         run: |
           set -e
-          find CALTutorial -name '*.zip' -print0 | xargs -0 -I{} unzip -t {}
+          find CALTutorial -name '*.zip' -print0 | xargs -0 -r -I{} unzip -t {}
       - name: Size guardrail
         run: |
           find . -type f -size +100M -ls || true
